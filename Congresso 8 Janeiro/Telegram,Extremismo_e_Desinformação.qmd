@@ -41,7 +41,7 @@ jupyter: python3
 ## Metodologia
 
 -   **O que foi Analisado:**
-    -   Analisamos mais de 54.863 mensagens, coletadas de, aproximadamente, 300 grupos e 223 canais de Telegram.
+    -   Analisamos 54.863 mensagens, que foram coletadas de, aproximadamente, 300 grupos e 223 canais de Telegram.
 -   **Ferramentas Utilizadas:**
     -   Utilizamos o **Elastic** para explorar, analisar e armazenar dados, e **Kibana** para a visualização gráfica.
 
