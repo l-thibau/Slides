@@ -1,0 +1,74 @@
+---
+title: "Telegram, Extremismo e Desinformação"
+author: "Leonardo Thibau"
+date: 2024-08-01
+lang: pt-BR
+format: revealjs
+jupyter: python3
+---
+
+## Introdução
+
+-   **Apresentação:**
+    -  Graduando em Ciências Sociais na UFBA <!-- nesse momento devo falar sobre orangotangos -->
+    - Bolsista do Laboratória de Ciências, Tecnologia e Sociedade (LABCTS)
+    - Integrante do [Laboratório de Humanidades Digitais](https://labhdufba.github.io/).
+-   **Tema do Projeto:**
+    -   *Telegram, identidades extremistas e democracia: a responsabilização dos atos de 8 de Janeiro de 2023*, orientado pelo Professor Paulo de Freitas Castro Fonseca.
+
+## Apresentação do Problema
+
+-   **O que é o Projeto:**
+    -   Buscamos entender as reações de usuários do Telegram, que pertencem a grupos de extrema direita, frente aos eventos que ocorreram em 8 de janeiro de 2023.
+    -   Nosso objetivo é investigar de que forma essas reações podem ser um projeto advindo de uma desinformação planejada para abalar a confiança nas instituições brasileiras.
+
+
+## Metas Específicas   > Inserir  MAIS METAS? <
+- Desenvolver competências de pesquisa em sociologia digital.
+- Produzir dados usando o Elastic Search.
+- Realizar análises qualitativas e quantitativas de casos de desinformação.
+
+## Metodologia
+
+-   **O que foi Analisado:**
+    -   Analisamos mais de >SOMAR TUDO< mensagens coletadas de > QUANTOS?< grupos e >QUANTOS?< canais de Telegram.
+-   **Ferramentas Utilizadas:**
+    -   Utilizamos o Kibana >ESPECIFICAR DIFERENÇA DE KIBANA PARA ELASTIC< para explorar, analisar e visualizar dados.
+    
+    
+## Dados Utilizados
+- **8 de Janeiro de 2023**
+- Mensagens relacionadas à tentativa de golpe
+-   **Procedimentos:**
+    -   Desenvolvi um conjunto de >queries< específicas para capturar menções aos eventos e em colaboração com outra bolsista, desenvolvemos um dashboard para monitorar a circulação dos conteúdos.
+    
+## A >quary<
+
+- >INSERIR A QUARY<
+
+## Enquadramento Teórico
+
+-   **Referências Teóricas:**
+    -   Baseado em >inserir aqui autores e livros<
+    - > Inserir alguns conceitos chave para demonstrar o que aprendi <
+    
+## Resultados 
+
+-   **Análise de Dados:**
+    -   Ao observar cuidadosamente os  meses do ano de 2023, realizei um resumo análitico acerca de cada um.
+    -   Observamos que as narrativas dos usuários > RESUMIR OQ ENTENDEMOS<.
+-   **Descobertas:**
+    -   Identificamos uma tendência dos usuários em >falar da multiplicidade inicial de narrativas, e do fim se tornando coeso <
+
+## Conclusões
+
+-   **Construção Social da Ignorância:**
+    -   Neste caso, os envolvidos promovem ativamente desinformação e desconfiança nas instituições democráticas.
+-   **Conclusões:**
+    - Os resultados preliminares indicam que há um esforço coordenado para minar a confiança na democracia brasileira, o que pode ter implicações sérias para a estabilidade política do país.
+
+## Fechamento
+
+-   **Próximos Passos:**
+- Cabe-nos agora, enquanto sociedade, identificar que grupos são esses, e ordenar aos órgãos competentes que se faça a regulação necessária para as redes.
+    -   Pretendo seguir em minha pesquisa e começar a analisar um seguimento específico da extrema direita que está em ascenção: os grupos redpill.

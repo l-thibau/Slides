@@ -1,0 +1,86 @@
+---
+title: "Zotero"
+author: "Leonardo Thibau"
+date: 2024-07-30
+lang: pt-BR
+format: 
+  revealjs:
+    theme: white
+    slide-number: true
+    transition: fade
+    css: styles.css
+    background-image: background.jpg
+jupyter: python3
+---
+
+## Introdução <!-- QR CODE da apresentação -->
+
+-   **Apresentação:**
+    -   Graduando em Ciências Sociais na UFBA
+
+    -   Bolsista do Laboratória de Ciências, Tecnologia e Sociedade (LABCTS) <!-- Inserir foto -->
+
+    -   Integrante do [Laboratório de Humanidades Digitais](https://labhdufba.github.io/). <!-- Inserir foto -->
+
+<div style="display: flex; align-items: center;">
+  <img src="labhd.png" alt="LABHD" style="width: 131px; margin-right: 10px;">
+  <img src="LABCTS.jpg" alt="LABCTS" style="width: 131px;">
+</div>
+
+## Preprando a Máquina
+
+-   [**Script para Ativar Windows e Pacote Office**](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
+-   **Nexus Search, Telegram e Textos Acadêmicos** <img src="NexusSearch.gif" alt="NexusSearch" class="left-gif" style="width: 700px;"/>
+<!-- Ajustar gif colocando a aba nexus no futuro -->
+  
+## Cadastrando Artigos e Livros
+
+<a href="https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?pli=1/" target="_blank"> <img src="ZoteroConnect.JPG" alt="Connect" style="width: 400px;"/> </a>
+
+-   **Varinha Mágica (DOI ou ISBN)**
+
+    <img src="varinhamag.gif" alt="varinha" class="left-gif" style="width: 500px;"/>
+
+## Extensões Recomendadas
+
+-   [**Better Notes**](https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file#-what-can-it-do)\
+    [Excelente para personalizar ainda mais suas anotações dentro do zotero <!-- Desenvolver pontos -->]{style="font-size: 0.7em;"}
+
+-   [**Zotfile**](https://zotfile.com/)\
+    [Essencial para integrar na Cloud e renomear arquivos em massa com formatações sofisticadas]{style="font-size: 0.7em;"}
+
+-   [**Notero (opcional)**](https://github.com/dvanoni/notero)\
+    [Excelente para quem usa Notion, levando todos os arquivos com meta-dados e notas direto para a plataforma]{style="font-size: 0.7em;"}
+
+## Integrando em Docs e Word
+
+-   **Docs** <!-- Elaborar vídeo, lembrar de mencionar o lance de como precisa de cópia para docs colaborativo -->
+
+-   **[Word](https://youtu.be/wgz2QF4JUD0?si=MqsR6aL860-Cgbcv)** <!-- Elaborar vídeo -->  
+[Passo a Passo para o Plugin](https://youtu.be/6GTqQU-8jcM?si=2a0InU8ZY3LQMz0D&t=140)  
+
+## Como Inserir as Referências
+- **Docs**
+
+- **Word**
+
+## Integrando com Google Drive
+
+-   [Tutorial](https://www.youtube.com/watch?v=n4fQPoy7GqU&ab_channel=Singularidade) ![drive](drive.png){width="46"}\
+    [**Caso você já use o Zotero:** Lembre-se de fazer backup dos seus arquivos antes de iniciar o processo para garantir que nada se perca em caso de enganos.]{style="font-size: 0.7em;"} <!-- Criar gif resumindo passo a passo, tal como mencionei no notion -->
+
+#### Renomear e Mover Arquivos
+
+<img src="zotfilerename.gif" alt="zotrename" style="width: 490px;"/> <!-- Verificar se animacao gif corrigiu -->
+
+## Muito obrigado!
+
+```{=html}
+<style>
+.reveal .slide-number {
+  font-size: 46px; /* Aumente o valor conforme necessário */
+  color: #333; /* Cor da contagem de slides */
+}
+</style>
+```
