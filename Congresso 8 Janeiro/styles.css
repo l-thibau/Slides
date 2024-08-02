@@ -1,5 +1,9 @@
 .reveal {
   background-color: #ffffff; /* Fundo branco */
+  background-image: url('telegram-icon.jpg'); /* Caminho para a sua imagem */
+  background-size: cover; /* Cobre toda a área, mantendo a proporção */
+  background-position: center; /* Centraliza a imagem */
+  background-repeat: no-repeat; /* Não repete a imagem */
   color: #333333; /* Texto escuro */
 }
 
@@ -33,6 +37,7 @@ pre.code-block {
   width: 80%;
   margin: left;
 }
+
 .left-gif {
   width: 350px; /* Aumentar o tamanho conforme necessário */
   height: auto;
@@ -41,10 +46,13 @@ pre.code-block {
   left: 50px; /* Ajuste a posição horizontal conforme necessário */
 }
 
-
 @media (prefers-color-scheme: dark) {
   .reveal {
     background-color: #ffffff; /* Fundo no modo escuro */
+    background-image: url('path-to-your-image.jpg'); /* Caminho para a sua imagem */
+    background-size: cover; /* Cobre toda a área, mantendo a proporção */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Não repete a imagem */
     color: #1f0303; /* Texto no modo escuro */
   }
   .reveal section h1, .reveal section h2, .reveal section h3, .reveal section h4, .reveal section h5, .reveal section h6 {
