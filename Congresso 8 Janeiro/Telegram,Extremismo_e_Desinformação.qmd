@@ -20,7 +20,7 @@ jupyter: python3
     -   Bolsista do Laboratória de Ciências, Tecnologia e Sociedade (LABCTS)
     -   Integrante do [Laboratório de Humanidades Digitais](https://labhdufba.github.io/).
 -   **Tema do Projeto:**
-    -   *Telegram, identidades extremistas e democracia: a responsabilização dos atos de 8 de Janeiro de 2023*, orientado pelo Professor Paulo de Freitas Castro Fonseca.
+    -   *Telegram, identidades extremistas e democracia: a responsabilização dos atos de 8 de Janeiro de 2023*, orientado pelo Professor Paulo de Freitas.
 
 ## Apresentação do Problema
 
