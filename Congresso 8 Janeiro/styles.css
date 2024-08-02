@@ -1,6 +1,6 @@
 .reveal {
   background-color: #ffffff; /* Fundo branco */
-  background-image: url('telegram-icon.jpg'); /* Caminho para a sua imagem */
+  background-image: url('Background.jpg'); /* Caminho para a sua imagem */
   background-size: cover; /* Cobre toda a área, mantendo a proporção */
   background-position: center; /* Centraliza a imagem */
   background-repeat: no-repeat; /* Não repete a imagem */
