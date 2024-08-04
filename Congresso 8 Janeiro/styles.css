@@ -1,3 +1,13 @@
+/* custom.css */
+
+.reveal .slide-number {
+  top: 10px;
+  right: auto;
+  left: 10px;
+  bottom: auto;
+  color: #0088cc !important; /* Cor azul do Telegram */
+}
+
 .reveal {
   background-color: #ffffff; /* Fundo branco */
   background-image: url('Background.jpg'); /* Caminho para a sua imagem */

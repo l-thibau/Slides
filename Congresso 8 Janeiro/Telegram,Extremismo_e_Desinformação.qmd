@@ -26,7 +26,7 @@ jupyter: python3
 
 -   **O que é o Projeto:**
     -   Observar as reações dos usuários de extrema direita frente ao 8 de janeiro
-    -   Nosso objetivo é investigar de que forma essas reações tem se demonstrado o resultado de um projeto advindo de uma desinformação planejada para abalar a confiança nas instituições brasileiras.
+    -   Nosso objetivo é investigar de que forma essas reações têm se demonstrado como resultado de um projeto que advém de uma desinformação planejada para abalar a confiança nas instituições brasileiras.
 
 ::: {style="display: flex; align-items: center;"}
 <img src="labhd.png" alt="LABHD" style="width: 131px; margin-right: 10px;"/> <img src="LABCTS.jpg" alt="LABCTS" style="width: 131px;"/>
@@ -50,7 +50,7 @@ jupyter: python3
 -   **Mensagens**
     -   Relacionadas à tentativa de golpe do 8 de Janeiro de 2023
 -   **Procedimentos:**
-    -   Desenvolvi um conjunto de queries específicas para capturar menções aos eventos e em colaboração com outra bolsista, desenvolvemos um dashboard para monitorar a circulação dos conteúdos.
+    -   Desenvolvi um conjunto de queries específicas para capturar menções aos eventos e, em colaboração com outra bolsista, desenvolvemos um dashboard para monitorar a circulação dos conteúdos.
 
 ## Sobre a query
 
