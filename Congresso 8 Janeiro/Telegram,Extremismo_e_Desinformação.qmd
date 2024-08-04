@@ -77,7 +77,7 @@ OR ALL_TEXT: SOS and FA or all_text: sos and "forças armadas"
 -   **Análise de Dados:**
     -   As narrativas mensais dos dos usuários, assim como os trending topics
 -   **Descobertas:**
-    -   Tendência dos usuários em disseminarem teorias caóticas, que com o tempo se harmonizavam em coesão
+    -   Tendência dos usuários em disseminarem teorias heterogêneas, com pouca coerência, que com o tempo se harmonizavam em coesão
 
 ::: gif-container
 <img src="intervenção-alienigena.gif" alt="GIF Intervenção" class="left-gif"/>
