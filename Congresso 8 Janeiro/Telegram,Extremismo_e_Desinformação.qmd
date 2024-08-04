@@ -75,13 +75,11 @@ OR ALL_TEXT: SOS and FA or all_text: sos and "forças armadas"
 ## Resultados
 
 -   **Análise de Dados:**
-    -   As narrativas mensais dos dos usuários, assim como os trending topics
+    -   As narrativas mensais dos usuários, assim como os trending topics
 -   **Descobertas:**
     -   Tendência dos usuários em disseminarem teorias heterogêneas, com pouca coerência, que com o tempo se harmonizavam em coesão
 
-::: gif-container
-<img src="intervenção-alienigena.gif" alt="GIF Intervenção" class="left-gif"/>
-:::
+        ![](Intervenção-alienigena.gif){width="266"}
 
 ## Enquadramento Teórico
 
@@ -97,15 +95,12 @@ OR ALL_TEXT: SOS and FA or all_text: sos and "forças armadas"
 
 <!-- Importante pensar na questão do “poder oracular”, e observar como que o líder populista, neste caso, tem um tipo de poder que é o mesmo dos oráculos, na Grécia antiga. Um oráculo é aquele em que um indivíduo confia para discernir a verdade, e frequentemente, Bolsonaro e seus aliados da extrema direita são vistos como capacitados para definir o que é considerado crível. Assim se dá parte da construção social da ignorância. (Nascimento et al, 2021). -->
 
-
 ## Conclusões
 
 -   **Construção Social da Ignorância:**
     -   Neste caso, os envolvidos promovem ativamente desinformação e desconfiança nas instituições democráticas.
 -   **Conclusões:**
     -   Os resultados preliminares indicam que há um esforço coordenado para minar a confiança na democracia brasileira, o que pode ter implicações sérias para a estabilidade política do país.
-
-
 
 ## Fechamento
 
