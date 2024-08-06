@@ -13,7 +13,7 @@ format:
 jupyter: python3
 ---
 
-## Introdução <!-- QR CODE da apresentação -->
+## Introdução <!-- INSERIR QR CODE da apresentação -->
 
 -   **Apresentação:**
     -   Graduando em Ciências Sociais na UFBA
@@ -34,6 +34,11 @@ jupyter: python3
 -   **Nexus Search, Telegram e Textos Acadêmicos** <img src="NexusSearch.gif" alt="NexusSearch" class="left-gif" style="width: 700px;"/>
 <!-- Ajustar gif colocando a aba nexus no futuro -->
   
+## Diferença entre Mendeley e Zotero  
+
+Empresarial <!-- Mendeley é uma empresa sediada em Londres, Reino Unido, que desenvolve produtos e serviços para pesquisadores acadêmicos. --> Vs Software Livre (É seu) <!-- concede liberdade ao usuário para executar, acessar e modificar o código fonte, e redistribuir cópias com ou sem modificações; pode ser usado, copiado, estudado, modificado e redistribuído sem nenhuma restrição. -->
+Atual dona é a Elsevier <!-- a Elsevier comprou a Mendeley.; O valor do negócio foi estimado em 50 milhões de Euros. [8] A venda levou a um debate em redes científicas e na mídia interessada pelo acesso aberto e incomodou membros da comunidade científica, que sentiu que a aquisição da Mendeley pela Elsevier era antiética para o modelo colaborativo da Mendeley --> vs   Código aberto <!-- disponibilizado gratuitamente para consulta, examinação, modificação e redistribuição.[1] Os produtos incluem permissão para usar o código-fonte,[2] documentos de design ou conteúdo do produto. O modelo de código aberto é um modelo de desenvolvimento de software descentralizado que incentiva a colaboração aberta. -->
+A empresa gestiona seus dados <!-- Incidentes: Em 2018, uma atualização do Mendeley resultou na perda de PDFs e anotações nas contas de alguns usuários. A Elsevier consertou o problema para a maioria dos usuários após algumas semanas. --> Vs Você é responsável pela gestão dos dados <!-- Google drive, por exemplo -->
 ## Cadastrando Artigos e Livros
 
 <a href="https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?pli=1/" target="_blank"> <img src="ZoteroConnect.JPG" alt="Connect" style="width: 400px;"/> </a>
