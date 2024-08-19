@@ -84,12 +84,12 @@ editor:
 
 <div style="display: flex; align-items: center;">
 
-  <img src="FixWord.gif" alt="FixWord" style="max-width: 70%; height: auto;"/>
+  <img src="FixWord.gif" alt="FixWord" style="max-width: 82%; height: auto;"/>
 
-  <div style="font-size: 0.6em; padding-left: 0px;">
+  <div style="font-size: 0.8em; padding-left: 0px;">
     Em resumo:
 
-    Ir ao endereço: `C:\Program Files (x86)\Zotero\integration\word-for-windows`
+    Ir ao endereço: C:\Program Files (x86)\Zotero\integration\word-for-windows
 
     Copiar o arquivo `Zotero.dotm`
 
