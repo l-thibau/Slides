@@ -369,6 +369,17 @@ Leonardo Thibau
 <li><strong>A empresa gestiona os dados</strong> <!-- Incidentes: Em 2018, uma atualização do Mendeley resultou na perda de PDFs e anotações nas contas de alguns usuários. A Elsevier consertou o problema para a maioria dos usuários após algumas semanas. --> Vs Você é a responsável <!-- Google drive, por exemplo --></li>
 </ul>
 </section>
+<section id="mas-e-o-que-isso-tem-de-mais" class="slide level2">
+<h2>Mas e o que isso tem de mais?</h2>
+<ul>
+<li>Tudo em um <strong>único app</strong></li>
+<li>Organiza <strong>todas suas referências</strong></li>
+<li>Permite <strong>linkar a relação</strong> dos arquivos</li>
+<li>Formar <strong>Mapa mental e Rede Neural</strong></li>
+<li><strong>Marcar</strong> e inserir <strong>notas</strong>!</li>
+<li><strong>Etiquetar</strong> os textos</li>
+</ul>
+</section>
 <section id="cadastrando-artigos-e-livros" class="slide level2">
 <h2>Cadastrando Artigos e Livros</h2>
 <p><a href="https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?pli=1/" target="_blank"> <img src="ZoteroConnect.JPG" alt="Connect" style="width: 400px;"> </a></p>
@@ -388,36 +399,37 @@ Leonardo Thibau
 <span style="font-size: 0.7em;">Excelente para quem usa Notion, levando todos os arquivos com meta-dados e notas direto para a plataforma</span></p></li>
 </ul>
 </section>
-<section id="caso-precise-de-fix-word" class="slide level2">
-<h2>Caso precise de Fix: Word</h2>
-<div style="display: flex; align-items: center;">
-<p><img src="FixWord.gif" alt="FixWord" style="max-width: 82%; height: auto;"></p>
-<div style="font-size: 0.8em; padding-left: 0px;">
-<pre><code>Em resumo:
-
-Ir ao endereço: C:\Program Files (x86)\Zotero\integration\word-for-windows
-
-Copiar o arquivo `Zotero.dotm`
-
-Apertar tecla Windows &gt; `%appdata%` &gt; `microsoft` &gt; `word` &gt; `startup` &gt; colar arquivo</code></pre>
-</div>
-</div>
-</section>
 <section id="inserindo-as-referências" class="slide level2">
 <h2>Inserindo as Referências</h2>
 <ul>
-<li><p><a href="https://planetazotero.blogspot.com/2020/04/estilo-da-norma-abnt-2018-para-o-zotero.html"><strong>Formatação recomendada</strong></a></p></li>
+<li><p>Formatação recomendada: <a href="https://planetazotero.blogspot.com/2020/04/estilo-da-norma-abnt-2018-para-o-zotero.html"><strong>Planeta Zotero</strong></a></p></li>
 <li><p><a href="https://www.youtube.com/watch?v=YA-Lq0VpvQA"><strong>Docs</strong></a> <!-- Elaborar vídeo, lembrar de mencionar o lance de como precisa de cópia para docs colaborativo --></p></li>
 <li><p><a href="https://youtu.be/wgz2QF4JUD0?si=MqsR6aL860-Cgbcv"><strong>Word</strong></a><br>
 <a href="https://youtu.be/6GTqQU-8jcM?si=_d6J2ZUyILEj5Unl&amp;t=140">Vídeo Aula para o Fix do Plugin</a></p></li>
 </ul>
 </section>
+<section id="corrigindo-o-word" class="slide level2">
+<h2>Corrigindo o Word</h2>
+<div style="display: flex; align-items: center;">
+<p><img src="FixWord.gif" alt="FixWord" style="max-width: 80%; height: auto;"></p>
+<div style="font-size: 0.8em; padding-left: 0px;">
+<pre><code>Em resumo:
+
+Ir ao endereço: C:\Program Files (x86)\Zotero\integration\word-for-windows
+
+Copiar o arquivo Zotero.dotm
+
+Apertar tecla Windows &gt; %appdata% &gt; microsoft &gt; word &gt; startup &gt; colar arquivo</code></pre>
+</div>
+</div>
+</section>
 <section id="renomeando-todos-os-arquivos" class="slide level2">
 <h2>Renomeando todos os arquivos</h2>
 <ul>
-<li>Pode personalizar como quiser!</li>
+<li><p>Pode personalizar como quiser!<br>
+<em>Exemplo:</em> <code>rename {{ authors name="family_given" initialize="_" join="_" suffix="_" }}{{ year suffix="_" }}{{ title truncate="100"}}</code></p>
+<p><img data-src="Renomeando.gif" width="565"></p></li>
 </ul>
-<p><code>rename {{ authors name="family_given" initialize="_" join="_" suffix="_" }}{{ year suffix="_" }}{{ title truncate="100"}}</code></p>
 </section>
 <section id="integrando-com-google-drive" class="slide level2">
 <h2>Integrando com Google Drive</h2>
@@ -425,8 +437,14 @@ Apertar tecla Windows &gt; `%appdata%` &gt; `microsoft` &gt; `word` &gt; `startu
 <li><a href="https://www.youtube.com/watch?v=n4fQPoy7GqU&amp;ab_channel=Singularidade">Tutorial</a> <img data-src="drive.png" width="46" alt="drive"><br>
 <span style="font-size: 0.7em;"><strong>Caso você já use o Zotero:</strong> Lembre-se de fazer backup dos seus arquivos antes de iniciar o processo para garantir que nada se perca em caso de enganos.</span> <!-- Criar gif resumindo passo a passo, tal como mencionei no notion --></li>
 </ul>
-<h4 id="renomear-e-mover-arquivos">Renomear e Mover Arquivos</h4>
-<p><img src="zotfilerename.gif" alt="zotrename" style="width: 490px;"> <!-- Verificar se animacao gif corrigiu --></p>
+</section>
+<section id="configurando-attanger" class="slide level2">
+<h2>Configurando Attanger</h2>
+
+<img data-src="Attanger.gif" class="r-stretch"></section>
+<section id="renomear-e-mover-arquivos" class="slide level2">
+<h2>Renomear e Mover Arquivos</h2>
+<p><img src="zotfilerename.gif" alt="zotrename" width="560"> <!-- Verificar se animacao gif corrigiu --></p>
 </section>
 <section id="muito-obrigado" class="slide level2">
 <h2>Muito obrigado!</h2>

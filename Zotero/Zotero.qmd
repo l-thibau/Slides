@@ -55,6 +55,15 @@ editor:
     <!-- Incidentes: Em 2018, uma atualização do Mendeley resultou na perda de PDFs e anotações nas contas de alguns usuários. A Elsevier consertou o problema para a maioria dos usuários após algumas semanas. -->
     Vs Você é a responsável <!-- Google drive, por exemplo -->
 
+## Mas e o que isso tem de mais?
+
+-   Tudo em um **único app**
+-   Organiza **todas suas referências**
+-   Permite **linkar a relação** dos arquivos
+-   Formar **Mapa mental e Rede Neural**
+-   **Marcar** e inserir **notas**!
+-   **Etiquetar** os textos
+
 ## Cadastrando Artigos e Livros
 
 <a href="https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?pli=1/" target="_blank">
@@ -80,28 +89,10 @@ editor:
     meta-dados e notas direto para a
     plataforma]{style="font-size: 0.7em;"}
 
-## Caso precise de Fix: Word
-
-<div style="display: flex; align-items: center;">
-
-  <img src="FixWord.gif" alt="FixWord" style="max-width: 82%; height: auto;"/>
-
-  <div style="font-size: 0.8em; padding-left: 0px;">
-    Em resumo:
-
-    Ir ao endereço: C:\Program Files (x86)\Zotero\integration\word-for-windows
-
-    Copiar o arquivo `Zotero.dotm`
-
-    Apertar tecla Windows > `%appdata%` > `microsoft` > `word` > `startup` > colar arquivo
-  </div>
-
-</div>
-
 ## Inserindo as Referências
 
--   [**Formatação
-    recomendada**](https://planetazotero.blogspot.com/2020/04/estilo-da-norma-abnt-2018-para-o-zotero.html)
+-   Formatação recomendada: [**Planeta
+    Zotero**](https://planetazotero.blogspot.com/2020/04/estilo-da-norma-abnt-2018-para-o-zotero.html)
 
 -   [**Docs**](https://www.youtube.com/watch?v=YA-Lq0VpvQA)
     <!-- Elaborar vídeo, lembrar de mencionar o lance de como precisa de cópia para docs colaborativo -->
@@ -110,11 +101,31 @@ editor:
     [Vídeo Aula para o Fix do
     Plugin](https://youtu.be/6GTqQU-8jcM?si=_d6J2ZUyILEj5Unl&t=140)
 
+## Corrigindo o Word
+
+::: {style="display: flex; align-items: center;"}
+<img src="FixWord.gif" alt="FixWord" style="max-width: 80%; height: auto;"/>
+
+::: {style="font-size: 0.8em; padding-left: 0px;"}
+```         
+Em resumo:
+
+Ir ao endereço: C:\Program Files (x86)\Zotero\integration\word-for-windows
+
+Copiar o arquivo Zotero.dotm
+
+Apertar tecla Windows > %appdata% > microsoft > word > startup > colar arquivo
+```
+:::
+:::
+
 ## Renomeando todos os arquivos
 
--   Pode personalizar como quiser!
+-   Pode personalizar como quiser!\
+    *Exemplo:*
+    `rename {{ authors name="family_given" initialize="_" join="_" suffix="_" }}{{ year suffix="_" }}{{ title truncate="100"}}`
 
-`rename {{ authors name="family_given" initialize="_" join="_" suffix="_" }}{{ year suffix="_" }}{{ title truncate="100"}}`
+    ![](Renomeando.gif){width="565"}
 
 ## Integrando com Google Drive
 
@@ -125,9 +136,13 @@ editor:
     em caso de enganos.]{style="font-size: 0.7em;"}
     <!-- Criar gif resumindo passo a passo, tal como mencionei no notion -->
 
-#### Renomear e Mover Arquivos
+## Configurando Attanger
 
-<img src="zotfilerename.gif" alt="zotrename" style="width: 490px;"/>
+![](Attanger.gif)
+
+## Renomear e Mover Arquivos
+
+<img src="zotfilerename.gif" alt="zotrename" width="560"/>
 <!-- Verificar se animacao gif corrigiu -->
 
 ## Muito obrigado!
