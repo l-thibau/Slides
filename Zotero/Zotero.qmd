@@ -11,6 +11,9 @@ format:
     css: styles.css
     background-image: background.jpg
 jupyter: python3
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ## Introdução <!-- INSERIR QR CODE da apresentação -->
@@ -18,31 +21,44 @@ jupyter: python3
 -   **Apresentação:**
     -   Graduando em Ciências Sociais na UFBA
 
-    -   Bolsista do Laboratória de Ciências, Tecnologia e Sociedade (LABCTS) <!-- Inserir foto -->
+    -   Bolsista do Laboratória de Ciências, Tecnologia e Sociedade
+        (LABCTS) <!-- Inserir foto -->
 
-    -   Integrante do [Laboratório de Humanidades Digitais](https://labhdufba.github.io/). <!-- Inserir foto -->
+    -   Integrante do [Laboratório de Humanidades
+        Digitais](https://labhdufba.github.io/). <!-- Inserir foto -->
 
-<div style="display: flex; align-items: center;">
-  <img src="labhd.png" alt="LABHD" style="width: 131px; margin-right: 10px;">
-  <img src="LABCTS.jpg" alt="LABCTS" style="width: 131px;">
-</div>
+::: {style="display: flex; align-items: center;"}
+<img src="labhd.png" alt="LABHD" style="width: 131px; margin-right: 10px;"/>
+<img src="LABCTS.jpg" alt="LABCTS" style="width: 131px;"/>
+:::
 
 ## Preprando a Máquina
 
--   [**Script para Ativar Windows e Pacote Office**](https://github.com/massgravel/Microsoft-Activation-Scripts)
+-   [**Script para Ativar Windows e Pacote
+    Office**](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
--   **Paraíso dos Textos Acadêmicos: Telegram e Nexus Search** <img src="NexusSearch.gif" alt="NexusSearch" class="left-gif" style="width: 700px;"/>
-<!-- Ajustar gif colocando a aba nexus no futuro -->
-  
-## Diferença entre Mendeley e Zotero  
+-   **Paraíso dos Textos Acadêmicos: Nexus Search**
+    <img src="NexusSearch.gif" alt="NexusSearch" class="left-gif" style="width: 700px;"/>
+    <!-- Ajustar gif colocando a aba nexus no futuro -->
 
--  **Empresarial <!-- Mendeley é uma empresa sediada em Londres, Reino Unido, que desenvolve produtos e serviços para pesquisadores acadêmicos. --> Vs Software Livre (É seu)** <!-- concede liberdade ao usuário para executar, acessar e modificar o código fonte, e redistribuir cópias com ou sem modificações; pode ser usado, copiado, estudado, modificado e redistribuído sem nenhuma restrição. -->
--  **Elsevier <!-- a Elsevier comprou a Mendeley.; O valor do negócio foi estimado em 50 milhões de Euros. [8] A venda levou a um debate em redes científicas e na mídia interessada pelo acesso aberto e incomodou membros da comunidade científica, que sentiu que a aquisição da Mendeley pela Elsevier era antiética para o modelo colaborativo da Mendeley --> vs   Código aberto** <!-- disponibilizado gratuitamente para consulta, examinação, modificação e redistribuição.[1] Os produtos incluem permissão para usar o código-fonte,[2] documentos de design ou conteúdo do produto. O modelo de código aberto é um modelo de desenvolvimento de software descentralizado que incentiva a colaboração aberta. -->
--  **A empresa gestiona os dados <!-- Incidentes: Em 2018, uma atualização do Mendeley resultou na perda de PDFs e anotações nas contas de alguns usuários. A Elsevier consertou o problema para a maioria dos usuários após algumas semanas. --> Vs Você é a responsável** <!-- Google drive, por exemplo -->
+## Diferença entre Mendeley e Zotero
+
+-   **Empresarial**
+    <!-- Mendeley é uma empresa sediada em Londres, Reino Unido, que desenvolve produtos e serviços para pesquisadores acadêmicos. -->
+    Vs Software Livre (É seu)
+    <!-- concede liberdade ao usuário para executar, acessar e modificar o código fonte, e redistribuir cópias com ou sem modificações; pode ser usado, copiado, estudado, modificado e redistribuído sem nenhuma restrição. -->
+-   **Elsevier**
+    <!-- a Elsevier comprou a Mendeley.; O valor do negócio foi estimado em 50 milhões de Euros. [8] A venda levou a um debate em redes científicas e na mídia interessada pelo acesso aberto e incomodou membros da comunidade científica, que sentiu que a aquisição da Mendeley pela Elsevier era antiética para o modelo colaborativo da Mendeley -->
+    vs Código aberto
+    <!-- disponibilizado gratuitamente para consulta, examinação, modificação e redistribuição.[1] Os produtos incluem permissão para usar o código-fonte,[2] documentos de design ou conteúdo do produto. O modelo de código aberto é um modelo de desenvolvimento de software descentralizado que incentiva a colaboração aberta. -->
+-   **A empresa gestiona os dados**
+    <!-- Incidentes: Em 2018, uma atualização do Mendeley resultou na perda de PDFs e anotações nas contas de alguns usuários. A Elsevier consertou o problema para a maioria dos usuários após algumas semanas. -->
+    Vs Você é a responsável <!-- Google drive, por exemplo -->
 
 ## Cadastrando Artigos e Livros
 
-<a href="https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?pli=1/" target="_blank"> <img src="ZoteroConnect.JPG" alt="Connect" style="width: 400px;"/> </a>
+<a href="https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?pli=1/" target="_blank">
+<img src="ZoteroConnect.JPG" alt="Connect" style="width: 400px;"/> </a>
 
 -   **Varinha Mágica (DOI ou ISBN)**
 
@@ -50,35 +66,69 @@ jupyter: python3
 
 ## Extensões Recomendadas
 
--   [**Better Notes**](https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file#-what-can-it-do)\
-    [Excelente para personalizar ainda mais suas anotações dentro do zotero <!-- Desenvolver pontos -->]{style="font-size: 0.7em;"}
+-   [**Better
+    Notes**](https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file#-what-can-it-do)\
+    [Excelente para personalizar ainda mais suas anotações dentro do
+    zotero <!-- Desenvolver pontos -->]{style="font-size: 0.7em;"}
 
--   [**Zotfile**](https://zotfile.com/)\
-    [Essencial para integrar na Cloud e renomear arquivos em massa com formatações sofisticadas]{style="font-size: 0.7em;"}
+-   [**Attanger**](https://github.com/MuiseDestiny/zotero-attanger/releases)\
+    [Essencial para integrar na Cloud e renomear arquivos em massa com
+    formatações sofisticadas]{style="font-size: 0.7em;"}
 
 -   [**Notero (opcional)**](https://github.com/dvanoni/notero)\
-    [Excelente para quem usa Notion, levando todos os arquivos com meta-dados e notas direto para a plataforma]{style="font-size: 0.7em;"}
+    [Excelente para quem usa Notion, levando todos os arquivos com
+    meta-dados e notas direto para a
+    plataforma]{style="font-size: 0.7em;"}
 
-## Integrando em Docs e Word
+## Caso precise de Fix: Word
 
--   **Docs** <!-- Elaborar vídeo, lembrar de mencionar o lance de como precisa de cópia para docs colaborativo -->
+<div style="display: flex; align-items: center;">
 
--   **[Word](https://youtu.be/wgz2QF4JUD0?si=MqsR6aL860-Cgbcv)** <!-- Elaborar vídeo -->  
-[Passo a Passo para o Plugin](https://youtu.be/6GTqQU-8jcM?si=2a0InU8ZY3LQMz0D&t=140)  
+  <img src="FixWord.gif" alt="FixWord" style="max-width: 70%; height: auto;"/>
 
-## Como Inserir as Referências
-- **Docs**
+  <div style="font-size: 0.6em; padding-left: 0px;">
+    Em resumo:
 
-- **Word**
+    Ir ao endereço: `C:\Program Files (x86)\Zotero\integration\word-for-windows`
+
+    Copiar o arquivo `Zotero.dotm`
+
+    Apertar tecla Windows > `%appdata%` > `microsoft` > `word` > `startup` > colar arquivo
+  </div>
+
+</div>
+
+## Inserindo as Referências
+
+-   [**Formatação
+    recomendada**](https://planetazotero.blogspot.com/2020/04/estilo-da-norma-abnt-2018-para-o-zotero.html)
+
+-   [**Docs**](https://www.youtube.com/watch?v=YA-Lq0VpvQA)
+    <!-- Elaborar vídeo, lembrar de mencionar o lance de como precisa de cópia para docs colaborativo -->
+
+-   [**Word**](https://youtu.be/wgz2QF4JUD0?si=MqsR6aL860-Cgbcv)\
+    [Vídeo Aula para o Fix do
+    Plugin](https://youtu.be/6GTqQU-8jcM?si=_d6J2ZUyILEj5Unl&t=140)
+
+## Renomeando todos os arquivos
+
+-   Pode personalizar como quiser!
+
+`rename {{ authors name="family_given" initialize="_" join="_" suffix="_" }}{{ year suffix="_" }}{{ title truncate="100"}}`
 
 ## Integrando com Google Drive
 
--   [Tutorial](https://www.youtube.com/watch?v=n4fQPoy7GqU&ab_channel=Singularidade) ![drive](drive.png){width="46"}\
-    [**Caso você já use o Zotero:** Lembre-se de fazer backup dos seus arquivos antes de iniciar o processo para garantir que nada se perca em caso de enganos.]{style="font-size: 0.7em;"} <!-- Criar gif resumindo passo a passo, tal como mencionei no notion -->
+-   [Tutorial](https://www.youtube.com/watch?v=n4fQPoy7GqU&ab_channel=Singularidade)
+    ![drive](drive.png){width="46"}\
+    [**Caso você já use o Zotero:** Lembre-se de fazer backup dos seus
+    arquivos antes de iniciar o processo para garantir que nada se perca
+    em caso de enganos.]{style="font-size: 0.7em;"}
+    <!-- Criar gif resumindo passo a passo, tal como mencionei no notion -->
 
 #### Renomear e Mover Arquivos
 
-<img src="zotfilerename.gif" alt="zotrename" style="width: 490px;"/> <!-- Verificar se animacao gif corrigiu -->
+<img src="zotfilerename.gif" alt="zotrename" style="width: 490px;"/>
+<!-- Verificar se animacao gif corrigiu -->
 
 ## Muito obrigado!
 
