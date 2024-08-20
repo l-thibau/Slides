@@ -138,7 +138,9 @@ editor:
 
 ## Transferindo tudo ao Drive
 
-![](Transferindo.gif)
+-   Enquanto renomeia!
+
+    ![](Transferindo.gif){width="729"}
 
 ## Muito obrigado pela atenção
 
