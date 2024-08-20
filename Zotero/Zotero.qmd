@@ -47,13 +47,17 @@ editor:
     <!-- Mendeley é uma empresa sediada em Londres, Reino Unido, que desenvolve produtos e serviços para pesquisadores acadêmicos. -->
     Vs Software Livre (É seu)
     <!-- concede liberdade ao usuário para executar, acessar e modificar o código fonte, e redistribuir cópias com ou sem modificações; pode ser usado, copiado, estudado, modificado e redistribuído sem nenhuma restrição. -->
+
 -   **Elsevier**
     <!-- a Elsevier comprou a Mendeley.; O valor do negócio foi estimado em 50 milhões de Euros. [8] A venda levou a um debate em redes científicas e na mídia interessada pelo acesso aberto e incomodou membros da comunidade científica, que sentiu que a aquisição da Mendeley pela Elsevier era antiética para o modelo colaborativo da Mendeley -->
     vs Código aberto
     <!-- disponibilizado gratuitamente para consulta, examinação, modificação e redistribuição.[1] Os produtos incluem permissão para usar o código-fonte,[2] documentos de design ou conteúdo do produto. O modelo de código aberto é um modelo de desenvolvimento de software descentralizado que incentiva a colaboração aberta. -->
+
 -   **A empresa gestiona os dados**
     <!-- Incidentes: Em 2018, uma atualização do Mendeley resultou na perda de PDFs e anotações nas contas de alguns usuários. A Elsevier consertou o problema para a maioria dos usuários após algumas semanas. -->
-    Vs Você é a responsável <!-- Google drive, por exemplo -->
+    Vs Você é o responsável <!-- Google drive, por exemplo -->
+
+    ![](capitalismo-socialismo.jpg){width="739"}
 
 ## Mas e o que isso tem de mais?
 
