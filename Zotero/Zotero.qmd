@@ -62,11 +62,12 @@ editor:
 ## Mas e o que isso tem de mais?
 
 -   Tudo em um **único app**
--   Organiza **todas suas referências**
+-   Organiza **todas suas referências: Metadados!**
 -   Permite **linkar a relação** dos arquivos
 -   Formar **Mapa mental e Rede Neural**
 -   **Marcar** e inserir **notas**!
 -   **Etiquetar** os textos
+-   E muito mais :D
 
 ## Cadastrando Artigos e Livros
 
@@ -76,6 +77,14 @@ editor:
 -   **Varinha Mágica (DOI ou ISBN)**
 
     <img src="varinhamag.gif" alt="varinha" class="left-gif" style="width: 500px;"/>
+
+## Outros métodos de importação
+
+-   Metadados pelo **Zotero Connector**:
+
+    ![](zotero connector.gif){width="687"}
+
+-   **Em alguns casos**: simplesmente arrastar um arquivo para o Zotero
 
 ## Extensões Recomendadas
 
