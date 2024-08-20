@@ -91,31 +91,28 @@ editor:
 
 ## Inserindo as Referências
 
--   Formatação recomendada: [**Planeta
-    Zotero**](https://planetazotero.blogspot.com/2020/04/estilo-da-norma-abnt-2018-para-o-zotero.html)
+-   [Formatação
+    recomendada](https://github.com/AAguiarCAM/csl-abnt/tree/master)
 
--   [**Docs**](https://www.youtube.com/watch?v=YA-Lq0VpvQA)
-    <!-- Elaborar vídeo, lembrar de mencionar o lance de como precisa de cópia para docs colaborativo -->
+-   [**Docs**](https://www.youtube.com/watch?v=YA-Lq0VpvQA) precisa da
+    extensão do chrome\
 
--   [**Word**](https://youtu.be/wgz2QF4JUD0?si=MqsR6aL860-Cgbcv)\
-    [Vídeo Aula para o Fix do
-    Plugin](https://youtu.be/6GTqQU-8jcM?si=_d6J2ZUyILEj5Unl&t=140)
+-   Caso esteja em um Docs colaborativo:\
+    ![](docscolaborativo.gif){width="800"}
 
-## Corrigindo o Word
+## Caso precise corrigir o Word:
 
 ::: {style="display: flex; align-items: center;"}
-<img src="FixWord.gif" alt="FixWord" style="max-width: 80%; height: auto;"/>
+<img src="FixWord.gif" alt="FixWord" style="max- " width="87%"/>
 
-::: {style="font-size: 0.8em; padding-left: 0px;"}
-```         
-Em resumo:
+::: {style="font-size: 0.35em; padding-right: 250px;"}
+[Em resumo:](https://youtu.be/6GTqQU-8jcM?si=_d6J2ZUyILEj5Unl&t=140)
 
-Ir ao endereço: C:\Program Files (x86)\Zotero\integration\word-for-windows
-
-Copiar o arquivo Zotero.dotm
-
-Apertar tecla Windows > %appdata% > microsoft > word > startup > colar arquivo
-```
+> Ir ao endereço:
+> `C:\Program Files (x86)\Zotero\integration\word-for-windows`\
+> Copiar o arquivo Zotero.dotm\
+> Apertar tecla Windows \> %appdata% \> microsoft \> word \> startup \>
+> colar arquivo
 :::
 :::
 
@@ -135,17 +132,21 @@ Apertar tecla Windows > %appdata% > microsoft > word > startup > colar arquivo
     arquivos antes de iniciar o processo para garantir que nada se perca
     em caso de enganos.]{style="font-size: 0.7em;"}
     <!-- Criar gif resumindo passo a passo, tal como mencionei no notion -->
+-   **Configurando Attanger**
 
-## Configurando Attanger
+![](Attanger.gif){width="456"}
 
-![](Attanger.gif)
+## Transferindo tudo ao Drive
 
-## Renomear e Mover Arquivos
+![](Transferindo.gif)
 
-<img src="zotfilerename.gif" alt="zotrename" width="560"/>
-<!-- Verificar se animacao gif corrigiu -->
+## Muito obrigado pela atenção
 
-## Muito obrigado!
+-   **Bons estudos!**
+
+::: {style="display: flex; align-items: center;"}
+![](estudando.gif){width="450"}
+:::
 
 ```{=html}
 <style>
