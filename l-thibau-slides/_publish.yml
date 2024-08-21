@@ -1,0 +1,8 @@
+- source: project
+  quarto-pub:
+    - id: 8e77592f-83c6-46ad-bf6c-a87c5e947050
+      url: 'https://l-thibau.quarto.pub/zotero-2'
+    - id: 801e22fd-e653-47c6-82fe-e825c614ad98
+      url: 'https://l-thibau.quarto.pub/zotero-3'
+    - id: 3a70ef76-520f-4171-950f-77fbb8327576
+      url: 'https://l-thibau.quarto.pub/l-thibau-slides'
