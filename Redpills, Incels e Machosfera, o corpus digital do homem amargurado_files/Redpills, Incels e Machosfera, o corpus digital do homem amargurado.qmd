@@ -11,7 +11,7 @@ theme: white
 - Investigação das dinâmicas das identidades extremistas no Telegram brasileiro.
 - Ênfase na cultura e filosofia “redpill”.
 - Objetivo: Compreender como as teorias redpill contribuem para a realidade dos indivíduos e suas interações sociais.
-- Análise dos discursos e interações dos "machosfera", utilizando dados do Laboratório de Humanidades Digitais da UFBA.
+- Análise dos discursos e interações da "machosfera", utilizando dados do Laboratório de Humanidades Digitais da UFBA.
 
 ---
 
@@ -43,7 +43,7 @@ theme: white
 
 - **Ferramentas:** Elasticsearch para coleta de dados e Kibana para visualização gráfica.
 - **Análise Quantitativa:** Quantificação dos dados e produção de análises gráficas.
-- **Análise Qualitativa:** Interpretação de textos, imagens e vídeos, com foco em padrões e temas. Aplica-se análise de conteúdo.
+- **Análise Qualitativa:** Interpretação de textos, imagens e vídeos, com foco em padrões e temas.
 - **Filtragem:** Uso de queries específicas para identificar discursos redpill e suas subculturas.
 
 ---
