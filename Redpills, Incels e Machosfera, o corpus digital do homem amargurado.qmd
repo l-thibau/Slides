@@ -1,0 +1,73 @@
+---
+title: "REDPILLS, INCELS E MACHOSFERA: O CORPUS DIGITAL DO HOMEM AMARGURADO"
+author: "Leonardo Thibau Teixeira de Moraes"
+subtitle: "Programa de Pós-Graduação em Sociologia"
+format: revealjs
+theme: white
+---
+
+## Apresentação e Justificativa
+
+- Investigação das dinâmicas das identidades extremistas no Telegram brasileiro.
+- Ênfase na cultura e filosofia “redpill”.
+- Objetivo: Compreender como as teorias redpill contribuem para a realidade dos indivíduos e suas interações sociais.
+- Análise dos discursos e interações dos "machosfera", utilizando dados do Laboratório de Humanidades Digitais da UFBA.
+
+---
+
+## Objetivo Geral
+
+- **Compreender, identificar e catalogar narrativas redpill** através da observação de tipo lurker.
+- Análise das trocas de mensagens, vídeos e imagens mais compartilhados entre os pares.
+
+---
+
+## Objetivos Específicos
+
+1. Categorizar sócio-antropologicamente as filosofias que estruturam os estilos de vida redpill.
+2. Analisar e comparar as epistemologias da cultura redpill.
+3. Identificar e examinar as interações sociais dos indivíduos dentro das subculturas redpill.
+
+---
+
+## Fundamentos Teóricos
+
+- O digital como fato social total (Mauss e Levi-Strauss, 2008).
+- A digitalização do Eu na vida cotidiana (Goffman, 2004).
+- A paisagem digital nas redes sociais (Cesarino, 2020).
+- Análise da interação entre online e offline na formação de identidades extremistas.
+
+---
+
+## Metodologia
+
+- **Ferramentas:** Elasticsearch para coleta de dados e Kibana para visualização gráfica.
+- **Análise Quantitativa:** Quantificação dos dados e produção de análises gráficas.
+- **Análise Qualitativa:** Interpretação de textos, imagens e vídeos, com foco em padrões e temas.
+- **Filtragem:** Uso de queries específicas para identificar discursos redpill e suas subculturas.
+
+---
+
+## Resultados Esperados
+
+- **Identificação de Padrões:** Expectativa de mapear como as teorias redpill são integradas ao cotidiano desses grupos.
+- **Análise de Impacto:** Compreensão da disseminação de desinformações e sua relação com questões sociopolíticas.
+- **Contribuição:** A pesquisa fornecerá insights sobre o papel dos grupos masculinistas no contexto digital e suas implicações sociais.
+
+---
+
+## Considerações Finais
+
+- A pesquisa busca contribuir para o entendimento dos ecossistemas de comunicação digital e a importância de monitorar grupos extremistas.
+- Compreensão do impacto da cultura redpill na formação de identidades e suas consequências sociais e políticas.
+
+---
+
+## Referências
+
+- Mauss, M. & Levi-Strauss, C. (2008).
+- Goffman, E. (2004).
+- Cesarino, L. (2020).
+- Bauer, M. (2021).
+- Freud, S. (2012).
+- Vilaça, A. & Andréa, D. (2021).
