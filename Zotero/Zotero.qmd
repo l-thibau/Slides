@@ -19,17 +19,15 @@ editor:
 ## Introdução <!-- INSERIR QR CODE da apresentação -->
 
 -   **Apresentação:**
-    -   Graduando em Ciências Sociais na UFBA
+    -   Graduando em Ciências Sociais (UFBA)
 
-    -   Bolsista do Laboratória de Ciências, Tecnologia e Sociedade
-        (LABCTS) <!-- Inserir foto -->
+    -   Bacharel em Humanidades (UFBA)
 
     -   Integrante do [Laboratório de Humanidades
         Digitais](https://labhdufba.github.io/). <!-- Inserir foto -->
 
 ::: {style="display: flex; align-items: center;"}
 <img src="labhd.png" alt="LABHD" style="width: 131px; margin-right: 10px;"/>
-<img src="LABCTS.jpg" alt="LABCTS" style="width: 131px;"/>
 :::
 
 ## Preprando a Máquina
@@ -37,7 +35,8 @@ editor:
 -   [**Script para Ativar Windows e Pacote
     Office**](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
--   **Paraíso dos Textos Acadêmicos: Nexus Search**
+-   **Paraíso dos Textos Acadêmicos:    [Annas-archive](https://annas-archive.org/) e
+Nexus Search**
     <img src="NexusSearch.gif" alt="NexusSearch" class="left-gif" style="width: 700px;"/>
     <!-- Ajustar gif colocando a aba nexus no futuro -->
 
