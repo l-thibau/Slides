@@ -1,0 +1,173 @@
+---
+title: "Zotero"
+author: "Leonardo Thibau"
+date: 2024-07-30
+lang: pt-BR
+format: 
+  revealjs:
+    theme: white
+    slide-number: true
+    transition: fade
+    css: styles.css
+    background-image: background.jpg
+jupyter: python3
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Introdução <!-- INSERIR QR CODE da apresentação -->
+
+-   **Apresentação:**
+    -   Graduando em Ciências Sociais na UFBA
+
+    -   Bolsista do Laboratória de Ciências, Tecnologia e Sociedade
+        (LABCTS) <!-- Inserir foto -->
+
+    -   Integrante do [Laboratório de Humanidades
+        Digitais](https://labhdufba.github.io/). <!-- Inserir foto -->
+
+::: {style="display: flex; align-items: center;"}
+<img src="labhd.png" alt="LABHD" style="width: 131px; margin-right: 10px;"/>
+<img src="LABCTS.jpg" alt="LABCTS" style="width: 131px;"/>
+:::
+
+## Preprando a Máquina
+
+-   [**Script para Ativar Windows e Pacote
+    Office**](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
+-   **Paraíso dos Textos Acadêmicos: Nexus Search**
+    <img src="NexusSearch.gif" alt="NexusSearch" class="left-gif" style="width: 700px;"/>
+    <!-- Ajustar gif colocando a aba nexus no futuro -->
+
+## Diferença entre Mendeley e Zotero
+
+-   **Empresarial**
+    <!-- Mendeley é uma empresa sediada em Londres, Reino Unido, que desenvolve produtos e serviços para pesquisadores acadêmicos. -->
+    Vs Software Livre (É seu)
+    <!-- concede liberdade ao usuário para executar, acessar e modificar o código fonte, e redistribuir cópias com ou sem modificações; pode ser usado, copiado, estudado, modificado e redistribuído sem nenhuma restrição. -->
+
+-   **Elsevier**
+    <!-- a Elsevier comprou a Mendeley.; O valor do negócio foi estimado em 50 milhões de Euros. [8] A venda levou a um debate em redes científicas e na mídia interessada pelo acesso aberto e incomodou membros da comunidade científica, que sentiu que a aquisição da Mendeley pela Elsevier era antiética para o modelo colaborativo da Mendeley -->
+    vs Código aberto
+    <!-- disponibilizado gratuitamente para consulta, examinação, modificação e redistribuição.[1] Os produtos incluem permissão para usar o código-fonte,[2] documentos de design ou conteúdo do produto. O modelo de código aberto é um modelo de desenvolvimento de software descentralizado que incentiva a colaboração aberta. -->
+
+-   **A empresa gestiona os dados**
+    <!-- Incidentes: Em 2018, uma atualização do Mendeley resultou na perda de PDFs e anotações nas contas de alguns usuários. A Elsevier consertou o problema para a maioria dos usuários após algumas semanas. -->
+    Vs Você é o responsável <!-- Google drive, por exemplo -->
+
+    ![](capitalismo-socialismo.jpg){width="739"}
+
+## Mas e o que isso tem de mais?
+
+-   Tudo em um **único app**
+-   Organiza **todas suas referências: Metadados!**
+-   Permite **linkar a relação** dos arquivos
+-   Formar **Mapa mental e Rede Neural**
+-   **Marcar** e inserir **notas**!
+-   **Etiquetar** os textos
+-   E muito mais :D
+
+## Cadastrando Artigos e Livros
+
+<a href="https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?pli=1/" target="_blank">
+<img src="ZoteroConnect.JPG" alt="Connect" style="width: 400px;"/> </a>
+
+-   **Varinha Mágica (DOI ou ISBN)**
+
+    <img src="varinhamag.gif" alt="varinha" class="left-gif" style="width: 500px;"/>
+
+## Outros métodos de importação
+
+-   Metadados pelo **Zotero Connector**:
+
+    ![](zotero%20connector.gif){width="687"}
+
+-   **Em alguns casos**: simplesmente arrastar um arquivo para o Zotero
+
+## Extensões Recomendadas
+
+-   [**Better
+    Notes**](https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file#-what-can-it-do)\
+    [Excelente para personalizar ainda mais suas anotações dentro do
+    zotero <!-- Desenvolver pontos -->]{style="font-size: 0.7em;"}
+
+-   [**Attanger**](https://github.com/MuiseDestiny/zotero-attanger/releases)\
+    [Essencial para integrar na Cloud e renomear arquivos em massa com
+    formatações sofisticadas]{style="font-size: 0.7em;"}
+
+-   [**Notero (opcional)**](https://github.com/dvanoni/notero)\
+    [Excelente para quem usa Notion, levando todos os arquivos com
+    meta-dados e notas direto para a
+    plataforma]{style="font-size: 0.7em;"}
+
+## Inserindo as Referências
+
+-   [Formatação
+    recomendada](https://github.com/AAguiarCAM/csl-abnt/tree/master)
+
+-   [**Docs**](https://www.youtube.com/watch?v=YA-Lq0VpvQA) precisa da
+    extensão do chrome\
+
+-   Caso esteja em um Docs colaborativo:\
+    ![](docscolaborativo.gif){width="800"}
+
+## Caso precise corrigir o Word:
+
+::: {style="display: flex; align-items: center;"}
+<img src="FixWord.gif" alt="FixWord" style="max- " width="87%"/>
+
+::: {style="font-size: 0.35em; padding-right: 250px;"}
+[Em resumo:](https://youtu.be/6GTqQU-8jcM?si=_d6J2ZUyILEj5Unl&t=140)
+
+> Ir ao endereço:
+> `C:\Program Files (x86)\Zotero\integration\word-for-windows`\
+> Copiar o arquivo Zotero.dotm\
+> Apertar tecla Windows \> %appdata% \> microsoft \> word \> startup \>
+> colar arquivo
+:::
+:::
+
+## Renomeando todos os arquivos
+
+-   Pode personalizar como quiser!\
+    *Exemplo:*
+    `rename {{ authors name="family_given" initialize="_" join="_" suffix="_" }}{{ year suffix="_" }}{{ title truncate="100"}}`
+
+    ![](Renomeando.gif){width="565"}
+
+## Integrando com Google Drive
+
+-   [Tutorial](https://www.youtube.com/watch?v=n4fQPoy7GqU&ab_channel=Singularidade)
+    ![drive](drive.png){width="46"}\
+    [**Caso você já use o Zotero:** Lembre-se de fazer backup dos seus
+    arquivos antes de iniciar o processo para garantir que nada se perca
+    em caso de enganos.]{style="font-size: 0.7em;"}
+    <!-- Criar gif resumindo passo a passo, tal como mencionei no notion -->
+-   **Configurando Attanger**
+
+![](Attanger.gif){width="456"}
+
+## Transferindo tudo ao Drive
+
+-   Enquanto renomeia!
+
+    ![](Transferindo.gif){width="729"}
+
+## Muito obrigado pela atenção
+
+-   **Bons estudos!**
+
+::: {style="display: flex; align-items: center;"}
+![](estudando.gif){width="450"}
+:::
+
+```{=html}
+<style>
+.reveal .slide-number {
+  font-size: 46px; /* Aumente o valor conforme necessário */
+  color: #333; /* Cor da contagem de slides */
+}
+</style>
+```

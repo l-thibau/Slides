@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "Zotero.html#introdução",
+    "href": "Zotero.html#introdução",
+    "title": "Zotero",
+    "section": "Introdução ",
+    "text": "Introdução \n\nApresentação:\n\nGraduando em Ciências Sociais na UFBA\nBolsista do Laboratória de Ciências, Tecnologia e Sociedade (LABCTS) \nIntegrante do Laboratório de Humanidades Digitais."
+  },
+  {
+    "objectID": "Zotero.html#preprando-a-máquina",
+    "href": "Zotero.html#preprando-a-máquina",
+    "title": "Zotero",
+    "section": "Preprando a Máquina",
+    "text": "Preprando a Máquina\n\nScript para Ativar Windows e Pacote Office\nParaíso dos Textos Acadêmicos: Nexus Search"
+  },
+  {
+    "objectID": "Zotero.html#diferença-entre-mendeley-e-zotero",
+    "href": "Zotero.html#diferença-entre-mendeley-e-zotero",
+    "title": "Zotero",
+    "section": "Diferença entre Mendeley e Zotero",
+    "text": "Diferença entre Mendeley e Zotero\n\nEmpresarial  Vs Software Livre (É seu) \nElsevier  vs Código aberto \nA empresa gestiona os dados  Vs Você é o responsável"
+  },
+  {
+    "objectID": "Zotero.html#mas-e-o-que-isso-tem-de-mais",
+    "href": "Zotero.html#mas-e-o-que-isso-tem-de-mais",
+    "title": "Zotero",
+    "section": "Mas e o que isso tem de mais?",
+    "text": "Mas e o que isso tem de mais?\n\nTudo em um único app\nOrganiza todas suas referências: Metadados!\nPermite linkar a relação dos arquivos\nFormar Mapa mental e Rede Neural\nMarcar e inserir notas!\nEtiquetar os textos\nE muito mais :D"
+  },
+  {
+    "objectID": "Zotero.html#cadastrando-artigos-e-livros",
+    "href": "Zotero.html#cadastrando-artigos-e-livros",
+    "title": "Zotero",
+    "section": "Cadastrando Artigos e Livros",
+    "text": "Cadastrando Artigos e Livros\n  \n\nVarinha Mágica (DOI ou ISBN)"
+  },
+  {
+    "objectID": "Zotero.html#outros-métodos-de-importação",
+    "href": "Zotero.html#outros-métodos-de-importação",
+    "title": "Zotero",
+    "section": "Outros métodos de importação",
+    "text": "Outros métodos de importação\n\nMetadados pelo Zotero Connector:\n\nEm alguns casos: simplesmente arrastar um arquivo para o Zotero"
+  },
+  {
+    "objectID": "Zotero.html#extensões-recomendadas",
+    "href": "Zotero.html#extensões-recomendadas",
+    "title": "Zotero",
+    "section": "Extensões Recomendadas",
+    "text": "Extensões Recomendadas\n\nBetter Notes\nExcelente para personalizar ainda mais suas anotações dentro do zotero \nAttanger\nEssencial para integrar na Cloud e renomear arquivos em massa com formatações sofisticadas\nNotero (opcional)\nExcelente para quem usa Notion, levando todos os arquivos com meta-dados e notas direto para a plataforma"
+  },
+  {
+    "objectID": "Zotero.html#inserindo-as-referências",
+    "href": "Zotero.html#inserindo-as-referências",
+    "title": "Zotero",
+    "section": "Inserindo as Referências",
+    "text": "Inserindo as Referências\n\nFormatação recomendada\nDocs precisa da extensão do chrome\n\nCaso esteja em um Docs colaborativo:"
+  },
+  {
+    "objectID": "Zotero.html#caso-precise-corrigir-o-word",
+    "href": "Zotero.html#caso-precise-corrigir-o-word",
+    "title": "Zotero",
+    "section": "Caso precise corrigir o Word:",
+    "text": "Caso precise corrigir o Word:\n\n\n\nEm resumo:\n\nIr ao endereço: C:\\Program Files (x86)\\Zotero\\integration\\word-for-windows\nCopiar o arquivo Zotero.dotm\nApertar tecla Windows &gt; %appdata% &gt; microsoft &gt; word &gt; startup &gt; colar arquivo"
+  },
+  {
+    "objectID": "Zotero.html#renomeando-todos-os-arquivos",
+    "href": "Zotero.html#renomeando-todos-os-arquivos",
+    "title": "Zotero",
+    "section": "Renomeando todos os arquivos",
+    "text": "Renomeando todos os arquivos\n\nPode personalizar como quiser!\nExemplo: rename {{ authors name=\"family_given\" initialize=\"_\" join=\"_\" suffix=\"_\" }}{{ year suffix=\"_\" }}{{ title truncate=\"100\"}}"
+  },
+  {
+    "objectID": "Zotero.html#integrando-com-google-drive",
+    "href": "Zotero.html#integrando-com-google-drive",
+    "title": "Zotero",
+    "section": "Integrando com Google Drive",
+    "text": "Integrando com Google Drive\n\nTutorial \nCaso você já use o Zotero: Lembre-se de fazer backup dos seus arquivos antes de iniciar o processo para garantir que nada se perca em caso de enganos. \nConfigurando Attanger"
+  },
+  {
+    "objectID": "Zotero.html#transferindo-tudo-ao-drive",
+    "href": "Zotero.html#transferindo-tudo-ao-drive",
+    "title": "Zotero",
+    "section": "Transferindo tudo ao Drive",
+    "text": "Transferindo tudo ao Drive\n\nEnquanto renomeia!"
+  },
+  {
+    "objectID": "Zotero.html#muito-obrigado-pela-atenção",
+    "href": "Zotero.html#muito-obrigado-pela-atenção",
+    "title": "Zotero",
+    "section": "Muito obrigado pela atenção",
+    "text": "Muito obrigado pela atenção\n\nBons estudos!"
+  },
+  {
+    "objectID": "index.html#introdução",
+    "href": "index.html#introdução",
+    "title": "Zotero",
+    "section": "Introdução ",
+    "text": "Introdução \n\nApresentação:\n\nGraduando em Ciências Sociais na UFBA\nBolsista do Laboratória de Ciências, Tecnologia e Sociedade (LABCTS) \nIntegrante do Laboratório de Humanidades Digitais."
+  },
+  {
+    "objectID": "index.html#preparando-a-máquina",
+    "href": "index.html#preparando-a-máquina",
+    "title": "Zotero",
+    "section": "Preparando a Máquina",
+    "text": "Preparando a Máquina\n\nScript para Ativar Windows e Pacote Office\nParaíso dos Textos Acadêmicos: Nexus Search"
+  },
+  {
+    "objectID": "index.html#diferença-entre-mendeley-e-zotero",
+    "href": "index.html#diferença-entre-mendeley-e-zotero",
+    "title": "Zotero",
+    "section": "Diferença entre Mendeley e Zotero",
+    "text": "Diferença entre Mendeley e Zotero\n\nEmpresarial  Vs Software Livre (É seu) \nElsevier  vs Código aberto \nA empresa gestiona os dados  Vs Você é o responsável"
+  },
+  {
+    "objectID": "index.html#mas-e-o-que-isso-tem-de-mais",
+    "href": "index.html#mas-e-o-que-isso-tem-de-mais",
+    "title": "Zotero",
+    "section": "Mas e o que isso tem de mais?",
+    "text": "Mas e o que isso tem de mais?\n\nTudo em um único app\nOrganiza todas suas referências: Metadados!\nPermite linkar a relação dos arquivos\nFormar Mapa mental e Rede Neural\nMarcar e inserir notas!\nEtiquetar os textos\nE muito mais :D"
+  },
+  {
+    "objectID": "index.html#cadastrando-artigos-e-livros",
+    "href": "index.html#cadastrando-artigos-e-livros",
+    "title": "Zotero",
+    "section": "Cadastrando Artigos e Livros",
+    "text": "Cadastrando Artigos e Livros\n  \n\nVarinha Mágica (DOI ou ISBN)"
+  },
+  {
+    "objectID": "index.html#outros-métodos-de-importação",
+    "href": "index.html#outros-métodos-de-importação",
+    "title": "Zotero",
+    "section": "Outros métodos de importação",
+    "text": "Outros métodos de importação\n\nMetadados pelo Zotero Connector:\n\nEm alguns casos: simplesmente arrastar um arquivo para o Zotero"
+  },
+  {
+    "objectID": "index.html#extensões-recomendadas",
+    "href": "index.html#extensões-recomendadas",
+    "title": "Zotero",
+    "section": "Extensões Recomendadas",
+    "text": "Extensões Recomendadas\n\nBetter Notes\nExcelente para personalizar ainda mais suas anotações dentro do zotero \nAttanger\nEssencial para integrar na Cloud e renomear arquivos em massa com formatações sofisticadas\nNotero (opcional)\nExcelente para quem usa Notion, levando todos os arquivos com meta-dados e notas direto para a plataforma"
+  },
+  {
+    "objectID": "index.html#inserindo-as-referências",
+    "href": "index.html#inserindo-as-referências",
+    "title": "Zotero",
+    "section": "Inserindo as Referências",
+    "text": "Inserindo as Referências\n\nFormatação recomendada\nDocs precisa da extensão do chrome\n\nCaso esteja em um Docs colaborativo:"
+  },
+  {
+    "objectID": "index.html#caso-precise-corrigir-o-word",
+    "href": "index.html#caso-precise-corrigir-o-word",
+    "title": "Zotero",
+    "section": "Caso precise corrigir o Word:",
+    "text": "Caso precise corrigir o Word:\n\n\n\nEm resumo:\n\nIr ao endereço: C:\\Program Files (x86)\\Zotero\\integration\\word-for-windows\nCopiar o arquivo Zotero.dotm\nApertar tecla Windows &gt; %appdata% &gt; microsoft &gt; word &gt; startup &gt; colar arquivo"
+  },
+  {
+    "objectID": "index.html#renomeando-todos-os-arquivos",
+    "href": "index.html#renomeando-todos-os-arquivos",
+    "title": "Zotero",
+    "section": "Renomeando todos os arquivos",
+    "text": "Renomeando todos os arquivos\n\nPode personalizar como quiser!\nExemplo: rename {{ authors name=\"family_given\" initialize=\"_\" join=\"_\" suffix=\"_\" }}{{ year suffix=\"_\" }}{{ title truncate=\"100\"}}"
+  },
+  {
+    "objectID": "index.html#integrando-com-google-drive",
+    "href": "index.html#integrando-com-google-drive",
+    "title": "Zotero",
+    "section": "Integrando com Google Drive",
+    "text": "Integrando com Google Drive\n\nTutorial \nCaso você já use o Zotero: Lembre-se de fazer backup dos seus arquivos antes de iniciar o processo para garantir que nada se perca em caso de enganos. \nConfigurando Attanger"
+  },
+  {
+    "objectID": "index.html#transferindo-tudo-ao-drive",
+    "href": "index.html#transferindo-tudo-ao-drive",
+    "title": "Zotero",
+    "section": "Transferindo tudo ao Drive",
+    "text": "Transferindo tudo ao Drive\n\nEnquanto renomeia!"
+  },
+  {
+    "objectID": "index.html#muito-obrigado-pela-atenção",
+    "href": "index.html#muito-obrigado-pela-atenção",
+    "title": "Zotero",
+    "section": "Muito obrigado pela atenção",
+    "text": "Muito obrigado pela atenção\n\nBons estudos!"
+  }
+]
