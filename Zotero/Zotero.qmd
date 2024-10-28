@@ -1,5 +1,5 @@
 ---
-title: "Zotero"
+title: "Zotero: seu gerenciador de referências"
 author: "Leonardo Thibau"
 date: 2024-07-30
 lang: pt-BR
@@ -26,17 +26,16 @@ editor:
     -   Integrante do [Laboratório de Humanidades
         Digitais](https://labhdufba.github.io/). <!-- Inserir foto -->
 
-::: {style="display: flex; align-items: center;"}
-<img src="labhd.png" alt="LABHD" style="width: 131px; margin-right: 10px;"/>
-:::
+![](labhd.png){alt="LABHD" style="margin-right: 10px;"
+fig-align="center" width="132"}
 
 ## Preprando a Máquina
 
 -   [**Script para Ativar Windows e Pacote
     Office**](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
--   **Paraíso dos Textos Acadêmicos:    [Annas-archive](https://annas-archive.org/) e
-Nexus Search**
+-   **Paraíso dos Textos Acadêmicos:
+    [Annas-archive](https://annas-archive.org/) e Nexus Search**
     <img src="NexusSearch.gif" alt="NexusSearch" class="left-gif" style="width: 700px;"/>
     <!-- Ajustar gif colocando a aba nexus no futuro -->
 
@@ -51,7 +50,7 @@ Nexus Search**
     <!-- a Elsevier comprou a Mendeley.; O valor do negócio foi estimado em 50 milhões de Euros. [8] A venda levou a um debate em redes científicas e na mídia interessada pelo acesso aberto e incomodou membros da comunidade científica, que sentiu que a aquisição da Mendeley pela Elsevier era antiética para o modelo colaborativo da Mendeley -->
     vs Código aberto
 
-    <!-- disponibilizado gratuitamente para consulta, examinação, modificação e redistribuição. O modelo de código aberto é um modelo de desenvolvimento de software descentralizado que incentiva a colaboração aberta.  É produzido pelo Centro de História e Novas Mídias da Universidade de George Mason. -->
+    <!-- disponibilizado gratuitamente para consulta, examinação, modificação e redistribuição. O modelo de código aberto é um modelo de desenvolvimento de software descentralizado que incentiva a colaboração aberta.  É produzido pelo Centro de História e Novas Mídias da Universidade de George Mason, desde 2006 -->
 
 -   **A empresa gestiona os dados**
     <!-- Incidentes: Em 2018, uma atualização do Mendeley resultou na perda de PDFs e anotações nas contas de alguns usuários. A Elsevier consertou o problema para a maioria dos usuários após algumas semanas. -->
@@ -67,16 +66,26 @@ Nexus Search**
 -   **Marcar** e inserir **notas**!
 -   Formar **Mapa mental e Rede Neural**
 -   **Etiquetar** os textos
+-   Criar Grupos e realizar **revisões sistemáticas**
 -   E muito mais :D
 
+## Primeiros passos
+
+#### Logando no app
+
+![](LogandoZotero.gif)
+
 ## Cadastrando Artigos e Livros
+
+###### **Obtendo metadados**
 
 <a href="https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?pli=1/" target="_blank">
 <img src="ZoteroConnect.JPG" alt="Connect" style="width: 400px;"/> </a>
 
 -   **Varinha Mágica (DOI ou ISBN)**
+    <!-- Incentivar que pausem para fazer isso, e depois disso solicitar que façam manualmente a inserção de um meta-dado, ensinando depois a arrastar anexos para tal! -->
 
-    <img src="varinhamag.gif" alt="varinha" class="left-gif" style="width: 500px;"/>
+    <img src="varinhamag.gif" alt="varinha" class="left-gif" width="430"/>
 
 ## Outros métodos de importação
 
@@ -85,6 +94,12 @@ Nexus Search**
     ![](zotero%20connector.gif){width="687"}
 
 -   **Em alguns casos**: simplesmente arrastar um arquivo para o Zotero
+
+## Motor de busca
+
+**Tags, Etiquetas e Busca avançada**
+
+![](images/clipboard-4246178768.png)
 
 ## Extensões Recomendadas
 
@@ -104,12 +119,15 @@ Nexus Search**
 
 ## Inserindo as Referências
 
--   [**Formatação recomendada**](https://github.com/AAguiarCAM/csl-abnt/tree/master)
+-   [**Formatação
+    recomendada**](https://planetazotero.blogspot.com/2020/04/estilo-da-norma-abnt-2018-para-o-zotero.html):
+    **Planeta Zotero**
 
 -   [**Docs**](https://www.youtube.com/watch?v=YA-Lq0VpvQA) precisa da
     extensão do chrome\
 
--   Caso esteja em um Docs colaborativo:\
+-   Caso esteja em um Docs colaborativo:
+    <!-- Lembre de falar de REFRESH + Edição das citações -->\
     ![](docscolaborativo.gif){width="800"}
 
 ## Caso precise corrigir o Word:
