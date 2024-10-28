@@ -104,8 +104,7 @@ Nexus Search**
 
 ## Inserindo as Referências
 
--   [Formatação
-    recomendada](https://github.com/AAguiarCAM/csl-abnt/tree/master)
+-   [**Formatação recomendada**](https://github.com/AAguiarCAM/csl-abnt/tree/master)
 
 -   [**Docs**](https://www.youtube.com/watch?v=YA-Lq0VpvQA) precisa da
     extensão do chrome\
