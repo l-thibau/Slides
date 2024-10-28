@@ -1,6 +1,6 @@
 ---
 title: "Zotero: seu gerenciador de referências"
-author: "Leonardo Thibau"
+author: "Leonardo Thibau e Desirée Melo"
 date: 2024-07-30
 lang: pt-BR
 format: 
@@ -19,15 +19,46 @@ editor:
 ## Introdução <!-- INSERIR QR CODE da apresentação -->
 
 -   **Apresentação:**
-    -   Graduando em Ciências Sociais (UFBA)
+    -   Graduandos em Ciências Sociais (UFBA)
 
-    -   Bacharel em Humanidades (UFBA)
+    -   Bacharéis em Humanidades (UFBA)
 
-    -   Integrante do [Laboratório de Humanidades
+    -   Integrantes do [Laboratório de Humanidades
         Digitais](https://labhdufba.github.io/). <!-- Inserir foto -->
 
-![](labhd.png){alt="LABHD" style="margin-right: 10px;"
-fig-align="center" width="132"}
+<p style="display: flex; justify-content: center;">
+  <img src="labhd.png" alt="LABHD" width="200" style="margin-right: 10px;">
+  <img src="QRCode_Fácil.png" alt="Outra Imagem" width="200" style="margin-left: 10px;">
+</p>
+
+## Conhecendo vocês
+
+[**Mentimeter**](https://www.mentimeter.com/pt-BR)
+
+Insira os números : 7593 2028
+
+<video width="700" height="440" controls>
+
+<source src="Square.mp4" type="video/mp4">
+
+Your browser does not support the video tag. </video>
+
+## O que é isso? "Zotero"
+
+**Seu objetivo** é auxiliar pesquisadores, estudantes e profissionais a
+coletar, organizar, citar e compartilhar fontes de informação.
+
+**Banco de dados de refêrencias bibliográficas**
+
+-   Serve como banco de dados de ARQUIVOS
+
+-   Serve como banco de dados de REFERÊNCIAS
+
+[**Rede
+Social**](https://www.zotero.org/groups/5733525/humanidades_digitais_ufba)
+
+-   É possível criar bibliotecas e grupos em conjunto de outros
+    pesquisadores
 
 ## Preprando a Máquina
 
@@ -65,13 +96,25 @@ fig-align="center" width="132"}
 -   Permite **linkar a relação** dos arquivos
 -   **Marcar** e inserir **notas**!
 -   Formar **Mapa mental e Rede Neural**
--   **Etiquetar** os textos
+-   **Etiquetar** os textos <!-- ensinar a função das etiquetas -->
 -   Criar Grupos e realizar **revisões sistemáticas**
 -   E muito mais :D
 
-## Primeiros passos
+## Conhecendo a ferramenta
 
-#### Logando no app
+-   **Painel Esquerdo:** Aqui você verá suas coleções (pastas) e grupos.
+    É onde você pode organizar suas referências.
+
+-   **Painel Central:** Exibe as referências que estão na coleção
+    selecionada. Você pode ver detalhes sobre cada referência aqui.
+
+-   **Painel Direito:** Mostra informações detalhadas da referência
+    selecionada, como autores, título, data, e opções para adicionar
+    notas e tags.
+
+    ![](Capturar.PNG){width="299" height="66"}
+
+## Logando no app
 
 ![](LogandoZotero.gif)
 
@@ -81,15 +124,17 @@ fig-align="center" width="132"}
 
 <a href="https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?pli=1/" target="_blank">
 <img src="ZoteroConnect.JPG" alt="Connect" style="width: 400px;"/> </a>
+<!-- MENCIONAR TAMBÉM SOBRE O USO EM VIDEOS DO YOUTUBE -->
 
 -   **Varinha Mágica (DOI ou ISBN)**
-    <!-- Incentivar que pausem para fazer isso, e depois disso solicitar que façam manualmente a inserção de um meta-dado, ensinando depois a arrastar anexos para tal! -->
+    <!-- Incentivar que pausem para fazer isso, e depois disso solicitar que façam manualmente a inserção de um meta-dado, ensinando depois a arrastar anexos para tal!-->
 
     <img src="varinhamag.gif" alt="varinha" class="left-gif" width="430"/>
 
 ## Outros métodos de importação
 
 -   Metadados pelo **Zotero Connector**:
+    <!-- às vezes, como no caso do scielo, o arquivo vem junto dos dados. às vezes só os dados chegam. Portanto, é preciso baixar o arquivo e anexar nos dados! -->
 
     ![](zotero%20connector.gif){width="687"}
 
@@ -97,7 +142,7 @@ fig-align="center" width="132"}
 
 ## Motor de busca
 
-**Tags, Etiquetas e Busca avançada**
+**Tags, Notas e Busca avançada**
 
 ![](images/clipboard-4246178768.png)
 
@@ -175,6 +220,8 @@ fig-align="center" width="132"}
 ## Muito obrigado pela atenção
 
 -   **Bons estudos!**
+
+    Insira os números no Mentimeter : 5459 4416
 
 ::: {style="display: flex; align-items: center;"}
 ![](estudando.gif){width="450"}
