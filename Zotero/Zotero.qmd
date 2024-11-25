@@ -16,7 +16,7 @@ editor:
     wrap: 72
 ---
 
-## Introdução <!-- INSERIR QR CODE da apresentação -->
+## Introdução
 
 -   **Apresentação:**
     -   Graduandos em Ciências Sociais (UFBA)
@@ -27,8 +27,10 @@ editor:
         Digitais](https://labhdufba.github.io/). <!-- Inserir foto -->
 
 <p style="display: flex; justify-content: center;">
-  <img src="labhd.png" alt="LABHD" width="200" style="margin-right: 10px;">
-  <img src="QRCode_Fácil.png" alt="Outra Imagem" width="200" style="margin-left: 10px;">
+
+<img src="labhd.png" alt="LABHD" width="200" style="margin-right: 10px;"/>
+<img src="QRCode_Fácil.png" alt="Outra Imagem" width="200" style="margin-left: 10px;"/>
+
 </p>
 
 ## Conhecendo vocês
@@ -78,9 +80,8 @@ Social**](https://www.zotero.org/groups/5733525/humanidades_digitais_ufba)
     <!-- concede liberdade ao usuário para executar, acessar e modificar o código fonte, e redistribuir cópias com ou sem modificações; pode ser usado, copiado, estudado, modificado e redistribuído sem nenhuma restrição. -->
 
 -   **Elsevier**
-    <!-- a Elsevier comprou a Mendeley.; O valor do negócio foi estimado em 50 milhões de Euros. [8] A venda levou a um debate em redes científicas e na mídia interessada pelo acesso aberto e incomodou membros da comunidade científica, que sentiu que a aquisição da Mendeley pela Elsevier era antiética para o modelo colaborativo da Mendeley -->
+    <!-- a Elsevier comprou a Mendeley.; O valor do negócio foi estimado em 50 milhões de Euros. [8] A venda levou a um debate em redes científicas e na mídia interessada pelo acesso aberto. A aquisição seria antiética para o modelo colaborativo da Mendeley -->
     vs Código aberto
-
     <!-- disponibilizado gratuitamente para consulta, examinação, modificação e redistribuição. O modelo de código aberto é um modelo de desenvolvimento de software descentralizado que incentiva a colaboração aberta.  É produzido pelo Centro de História e Novas Mídias da Universidade de George Mason, desde 2006 -->
 
 -   **A empresa gestiona os dados**
@@ -206,7 +207,6 @@ Social**](https://www.zotero.org/groups/5733525/humanidades_digitais_ufba)
     [**Caso você já use o Zotero:** Lembre-se de fazer backup dos seus
     arquivos antes de iniciar o processo para garantir que nada se perca
     em caso de enganos.]{style="font-size: 0.7em;"}
-    <!-- Criar gif resumindo passo a passo, tal como mencionei no notion -->
 -   **Configurando Attanger**
 
 ![](Attanger.gif){width="456"}
