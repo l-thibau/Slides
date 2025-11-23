@@ -31,24 +31,32 @@ editor:
 
 </p>
 
-## O que é isso? "Zotero"
+## <span style="font-size:0.85em;">O que é isso? “Zotero”</span>
 
-**Seu objetivo** é auxiliar pesquisadores, estudantes e profissionais a
-coletar, organizar, citar e compartilhar fontes de informação.
+<div style="margin:0.35em 0; padding:0; line-height:1.15;">
+<span style="font-size:0.55em;"><strong>Seu objetivo</strong> é auxiliar pesquisadores, estudantes e profissionais a coletar, organizar, citar e compartilhar fontes de informação.</span>
+</div>
 
-**Banco de dados de refêrencias bibliográficas**
+<div style="margin:0.35em 0; padding:0; line-height:1.15;">
+<span style="font-size:0.5em;">•</span>
+<span style="font-size:0.55em;"><strong>Banco de dados de referências bibliográficas</strong></span><br>
+<span style="font-size:0.5em;">Funciona como repositório tanto para ARQUIVOS quanto para REFERÊNCIAS</span>
+</div>
 
--   Serve como banco de dados de ARQUIVOS
+<div style="margin:0.35em 0; padding:0; line-height:1.15;">
+<span style="font-size:0.5em;">•</span>
+<span style="font-size:0.55em;">Permite criar bibliotecas, coleções e grupos colaborativos</span>
+</div>
 
--   Serve como banco de dados de REFERÊNCIAS
+<div style="margin:0.35em 0; padding:0; line-height:1.15;">
+<span style="font-size:0.5em;">•</span>
+<a href="https://www.zotero.org/groups/5733525/humanidades_digitais_ufba" style="font-size:0.55em; color:#0040ff;"><strong>Rede Social</strong></a><br>
+<span style="font-size:0.5em;">Possibilita interação acadêmica e criação de grupos públicos ou privados</span>
+</div>
 
-[**Rede
-Social**](https://www.zotero.org/groups/5733525/humanidades_digitais_ufba)
 
--   É possível criar bibliotecas e grupos em conjunto de outros
-    pesquisadores
 
-## Preprando a Máquina
+## Preparando a Máquina
 
 -   [**Script para Ativar Windows e Pacote
     Office**](https://github.com/massgravel/Microsoft-Activation-Scripts)
@@ -60,21 +68,32 @@ Social**](https://www.zotero.org/groups/5733525/humanidades_digitais_ufba)
 
 ## Diferença entre Mendeley e Zotero
 
--   **Empresarial**
-    <!-- Mendeley é uma empresa sediada em Londres, Reino Unido, que desenvolve produtos e serviços para pesquisadores acadêmicos. -->
-    Vs Software Livre (É seu)
-    <!-- concede liberdade ao usuário para executar, acessar e modificar o código fonte, e redistribuir cópias com ou sem modificações; pode ser usado, copiado, estudado, modificado e redistribuído sem nenhuma restrição. -->
+<div style="margin:0.35em 0; padding:0; line-height:1.15;">
+<span style="font-size:0.5em;">•</span>
+<span style="font-size:0.55em;"><strong>Empresarial</strong></span>
+<!-- Mendeley é uma empresa sediada em Londres, Reino Unido, que desenvolve produtos e serviços para pesquisadores acadêmicos. -->
+<span style="font-size:0.5em;">Vs Software Livre (É seu)</span>
+<!-- concede liberdade ao usuário para executar, acessar e modificar o código fonte, e redistribuir cópias com ou sem modificações; pode ser usado, copiado, estudado, modificado e redistribuído sem nenhuma restrição. -->
+</div>
 
--   **Elsevier**
-    <!-- a Elsevier comprou a Mendeley.; O valor do negócio foi estimado em 50 milhões de Euros. [8] A venda levou a um debate em redes científicas e na mídia interessada pelo acesso aberto. A aquisição seria antiética para o modelo colaborativo da Mendeley -->
-    vs Código aberto
-    <!-- disponibilizado gratuitamente para consulta, examinação, modificação e redistribuição. O modelo de código aberto é um modelo de desenvolvimento de software descentralizado que incentiva a colaboração aberta.  É produzido pelo Centro de História e Novas Mídias da Universidade de George Mason, desde 2006 -->
+<div style="margin:0.35em 0; padding:0; line-height:1.15;">
+<span style="font-size:0.5em;">•</span>
+<span style="font-size:0.55em;"><strong>Elsevier (código fechado)</strong></span>
+<!-- a Elsevier comprou a Mendeley.; O valor do negócio foi estimado em 50 milhões de Euros. [8] A venda levou a um debate em redes científicas e na mídia interessada pelo acesso aberto. A aquisição seria antiética para o modelo colaborativo da Mendeley -->
+<span style="font-size:0.5em;">vs Código aberto</span>
+<!-- disponibilizado gratuitamente para consulta, examinação, modificação e redistribuição. O modelo de código aberto é um modelo de desenvolvimento de software descentralizado que incentiva a colaboração aberta.  É produzido pelo Centro de História e Novas Mídias da Universidade de George Mason, desde 2006 -->
+</div>
 
--   **A empresa gestiona os dados**
-    <!-- Incidentes: Em 2018, uma atualização do Mendeley resultou na perda de PDFs e anotações nas contas de alguns usuários. A Elsevier consertou o problema para a maioria dos usuários após algumas semanas. -->
-    Vs Você é o responsável <!-- Google drive, por exemplo -->
+<div style="margin:0.35em 0; padding:0; line-height:1.15;">
+<span style="font-size:0.5em;">•</span>
+<span style="font-size:0.55em;"><strong>A empresa gestiona os dados</strong></span>
+<!-- Incidentes: Em 2018, uma atualização do Mendeley resultou na perda de PDFs e anotações nas contas de alguns usuários. A Elsevier consertou o problema para a maioria dos usuários após algumas semanas. -->
+<span style="font-size:0.5em;">Vs Você é o responsável</span>
+<!-- Google drive, por exemplo -->
+</div>
 
-    ![](capitalismo-socialismo.jpg){width="739"}
+<img src="capitalismo-socialismo.jpg" alt="capitalismo-socialismo" style="width: 739px;"/>
+
 
 ## Mas e o que isso tem de mais?
 
@@ -103,7 +122,8 @@ Social**](https://www.zotero.org/groups/5733525/humanidades_digitais_ufba)
 
 ## Logando no app
 
-![](LogandoZotero.gif)
+<img src="LogandoZotero.gif" alt="LogandoZotero" style="width: 700px;"/>
+
 
 ## Cadastrando Artigos e Livros
 
@@ -211,7 +231,7 @@ Social**](https://www.zotero.org/groups/5733525/humanidades_digitais_ufba)
 
 ## Integrando com Google Drive
 
--   [Tutorial](https://www.youtube.com/watch?v=n4fQPoy7GqU&ab_channel=Singularidade)
+-   [Tutorial Antigo](https://www.youtube.com/watch?v=n4fQPoy7GqU&ab_channel=Singularidade)
     ![drive](drive.png){width="46"}\
     [**Caso você já use o Zotero:** Lembre-se de fazer backup dos seus
     arquivos antes de iniciar o processo para garantir que nada se perca
