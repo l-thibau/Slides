@@ -1,6 +1,6 @@
 ---
 title: "Zotero: seu gerenciador de referências"
-author: "Leonardo Thibau e Desirée Melo"
+author: "Leonardo Thibau e Arthur Lima"
 date: 2024-07-30
 lang: pt-BR
 format: 
@@ -16,14 +16,12 @@ editor:
     wrap: 72
 ---
 
-## Introdução
+## Sobre os ministrantes:
 
--   **Apresentação:**
-    -   Graduandos em Ciências Sociais (UFBA)
-
-    -   Bacharéis em Humanidades (UFBA)
-
-    -   Integrantes do [Laboratório de Humanidades
+-   ****
+    -   Arthur - [Graduando em Ciências Sociais](https://labhdufba.github.io/pt/authors/11_arthur/)
+    -   Thibau -  [Mestrando em Ciências Sociais](https://labhdufba.github.io/pt/authors/10_thibau/)
+    -   Pesquisadores do [Laboratório de Humanidades
         Digitais](https://labhdufba.github.io/). <!-- Inserir foto -->
 
 <p style="display: flex; justify-content: center;">
@@ -32,18 +30,6 @@ editor:
 <img src="QRCode_Fácil.png" alt="Outra Imagem" width="200" style="margin-left: 10px;"/>
 
 </p>
-
-## Conhecendo vocês
-
-[**Mentimeter**](https://www.mentimeter.com/pt-BR)
-
-Insira os números : 7593 2028
-
-<video width="700" height="440" controls>
-
-<source src="Square.mp4" type="video/mp4">
-
-Your browser does not support the video tag. </video>
 
 ## O que é isso? "Zotero"
 
@@ -147,21 +133,44 @@ Social**](https://www.zotero.org/groups/5733525/humanidades_digitais_ufba)
 
 ![](images/clipboard-4246178768.png)
 
-## Extensões Recomendadas
+## <span style="font-size:0.85em;">Extensões Recomendadas</span>
 
--   [**Better
-    Notes**](https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file#-what-can-it-do)\
-    [Excelente para personalizar ainda mais suas anotações dentro do
-    zotero <!-- Desenvolver pontos -->]{style="font-size: 0.7em;"}
+<div style="margin:0.05em 0; padding:0; line-height:1.1;">
+<span style="font-size:0.5em;">•</span>
+[<span style="font-size:0.55em;">**Better Notes**</span>](https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file)
+<span style="font-size:0.55em;">|</span>
+<span style="font-size:0.55em;"><a href="https://youtu.be/p1d7sR9KssU?si=VoV54XfHbM6U6TIQ" style="color:#005000;"><strong>Clique aqui para o guia</strong></a></span><br>
+<span style="font-size:0.5em;">Excelente para personalizar e expandir suas anotações dentro do Zotero, permitindo painéis avançados, bundles, templates e organização aprimorada</span>
+</div>
 
--   [**Attanger**](https://github.com/MuiseDestiny/zotero-attanger/releases)\
-    [Essencial para integrar na Cloud e renomear arquivos em massa com
-    formatações sofisticadas]{style="font-size: 0.7em;"}
+<div style="margin:0.05em 0; padding:0; line-height:1.1;">
+<span style="font-size:0.5em;">•</span>
+[<span style="font-size:0.55em;">**Attanger**</span>](https://github.com/MuiseDestiny/zotero-attanger/releases)<br>
+<span style="font-size:0.5em;">Essencial para integrar na Cloud e renomear arquivos em massa com formatações sofisticadas</span>
+</div>
 
--   [**Notero (opcional)**](https://github.com/dvanoni/notero)\
-    [Excelente para quem usa Notion, levando todos os arquivos com
-    meta-dados e notas direto para a
-    plataforma]{style="font-size: 0.7em;"}
+<div style="margin:0.05em 0; padding:0; line-height:1.1;">
+<span style="font-size:0.5em;">•</span>
+[<span style="font-size:0.55em;">**PDF Translate**</span>](https://github.com/windingwind/zotero-pdf-translate/releases)
+<span style="font-size:0.55em;">|</span>
+<span style="font-size:0.55em;"><a href="https://www.youtube.com/watch?v=AgXUmwLP1vM" style="color:#005000;"><strong>Clique aqui para o guia</strong></a></span><br>
+<span style="font-size:0.5em;">Permite traduzir PDFs diretamente dentro do Zotero com suporte a vários motores de tradução</span>
+</div>
+
+<div style="margin:0.05em 0; padding:0; line-height:1.1;">
+<span style="font-size:0.5em;">•</span>
+[<span style="font-size:0.55em;">**ShortDOI**</span>](https://github.com/bwiernik/zotero-shortdoi/releases/tag/v1.5.0)<br>
+<span style="font-size:0.5em;">Gera automaticamente versões curtas de DOIs, facilitando citações e compartilhamento</span>
+</div>
+
+<div style="margin:0.05em 0; padding:0; line-height:1.1;">
+<span style="font-size:0.5em;">•</span>
+[<span style="font-size:0.55em;">**Zotero OCR**</span>](https://github.com/UB-Mannheim/zotero-ocr/releases/tag/0.9.3)
+<span style="font-size:0.55em;">|</span>
+<span style="font-size:0.55em;"><a href="https://www.youtube.com/watch?v=swKQXs1vqZo" style="color:#005000;"><strong>Clique aqui para o guia</strong></a></span><br>
+<span style="font-size:0.5em;">Aplica OCR a PDFs (Transforma Imagens em Texto)… Requer <a href="https://github.com/UB-Mannheim/tesseract/wiki">Tesseract.exe</a> e <a href="https://github.com/oschwartz10612/poppler-windows/releases/">Poppler</a></span>
+</div>
+
 
 ## Inserindo as Referências
 
@@ -219,9 +228,7 @@ Social**](https://www.zotero.org/groups/5733525/humanidades_digitais_ufba)
 
 ## Muito obrigado pela atenção
 
--   **Bons estudos!**
-
-    Insira os números no Mentimeter : 5459 4416
+-   **Bons estudos!** 
 
 ::: {style="display: flex; align-items: center;"}
 ![](estudando.gif){width="450"}
@@ -235,3 +242,19 @@ Social**](https://www.zotero.org/groups/5733525/humanidades_digitais_ufba)
 }
 </style>
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

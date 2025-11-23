@@ -1,62 +1,33 @@
-.reveal {
-  background-color: #ffffff; /* Fundo branco */
-  color: #333333; /* Texto escuro */
-}
+.reveal { background-color: #ffffff; /* Fundo branco */ color: #333333; /* Texto escuro */ } .reveal section h1 { font-family: 'Arial Black', sans-serif; font-size: 48px; color: #333333; /* Texto escuro */ text-align: center; } .reveal section h2, .reveal section h3, .reveal section h4, .reveal section h5, .reveal section h6 { color: #333333; /* Texto escuro */ } .reveal section p { font-family: 'Arial', sans-serif; color: #333333; /* Texto escuro */ } .reveal section { border-top: 2px solid #dcdcdc; /* Linha clara no topo */ border-bottom: 2px solid #dcdcdc; /* Linha clara no fundo */ } pre.code-block { background-color: #ffffff; /* Fundo azul claro */ padding: 10px; border-radius: 10px; font-family: 'Times', monospace; font-size: 16px; width: 80%; margin: left; } .left-gif { width: 350px; /* Aumentar o tamanho conforme necessário */ height: auto; position: absolute; bottom: 10px; /* Ajuste a posição vertical conforme necessário */ left: 50px; /* Ajuste a posição horizontal conforme necessário */ } @media (prefers-color-scheme: dark) { .reveal { background-color: #ffffff; /* Fundo no modo escuro */ color: #1f0303; /* Texto no modo escuro */ } .reveal section h1, .reveal section h2, .reveal section h3, .reveal section h4, .reveal section h5, .reveal section h6 { color: #200404; /* Texto no modo escuro */ } .reveal section { border-top: 2px solid #555555; /* Linha clara no modo escuro */ border-bottom: 2px solid #555555; /* Linha clara no modo escuro */ } .reveal pre code { color: #ffffff; background: #4fa4d4; border: 1px solid #444444; } }
 
-.reveal section h1 {
-  font-family: 'Arial Black', sans-serif;
-  font-size: 48px;
-  color: #333333; /* Texto escuro */
-  text-align: center;
-}
+/* ========================= */
+/* AJUSTES DE ESPAÇAMENTO    */
+/* ========================= */
 
-.reveal section h2, .reveal section h3, .reveal section h4, .reveal section h5, .reveal section h6 {
-  color: #333333; /* Texto escuro */
-}
-
+/* diminuir espaço entre parágrafos */
 .reveal section p {
-  font-family: 'Arial', sans-serif;
-  color: #333333; /* Texto escuro */
+  margin-top: 0.2em !important;
+  margin-bottom: 0.2em !important;
 }
 
-.reveal section {
-  border-top: 2px solid #dcdcdc; /* Linha clara no topo */
-  border-bottom: 2px solid #dcdcdc; /* Linha clara no fundo */
+/* diminuir espaço entre itens de lista */
+.reveal section li {
+  margin-top: 0.15em !important;
+  margin-bottom: 0.15em !important;
 }
 
-pre.code-block {
-  background-color: #ffffff; /* Fundo azul claro */
-  padding: 10px;
-  border-radius: 10px;
-  font-family: 'Times', monospace;
-  font-size: 16px;
-  width: 80%;
-  margin: left;
-}
-.left-gif {
-  width: 350px; /* Aumentar o tamanho conforme necessário */
-  height: auto;
-  position: absolute;
-  bottom: 10px; /* Ajuste a posição vertical conforme necessário */
-  left: 50px; /* Ajuste a posição horizontal conforme necessário */
+/* reduzir intervalo entre linhas */
+.reveal section p,
+.reveal section li {
+  line-height: 1.10 !important;
 }
 
-
-@media (prefers-color-scheme: dark) {
-  .reveal {
-    background-color: #ffffff; /* Fundo no modo escuro */
-    color: #1f0303; /* Texto no modo escuro */
-  }
-  .reveal section h1, .reveal section h2, .reveal section h3, .reveal section h4, .reveal section h5, .reveal section h6 {
-    color: #200404; /* Texto no modo escuro */
-  }
-  .reveal section {
-    border-top: 2px solid #555555; /* Linha clara no modo escuro */
-    border-bottom: 2px solid #555555; /* Linha clara no modo escuro */
-  }
-  .reveal pre code {
-    color: #ffffff;
-    background: #4fa4d4;
-    border: 1px solid #444444;
-  }
+/* diminuir tamanho dos títulos h2 (inclui "Extensões Recomendadas") */
+.reveal section h2 {
+  font-size: 46px !important;   /* ajuste fino: pode reduzir mais se quiser */
+  line-height: 1.1 !important;
+  margin-bottom: 0.2em !important;
+  margin-top: 0.3em !important;
 }
+
+/* caso queira títulos ainda menores, posso ajustar h3, h4 etc. */
