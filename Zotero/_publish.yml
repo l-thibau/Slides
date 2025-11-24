@@ -1,0 +1,6 @@
+- source: zotero.qmd
+  quarto-pub:
+    - id: a875d2e8-97ee-4457-b452-29fb0e784a4a
+      url: https://l-thibau.quarto.pub/apresentando-zotero
+    - id: f322912d-001b-4db1-994a-e48f58ac687a
+      url: https://l-thibau.quarto.pub/apresentando-zotero

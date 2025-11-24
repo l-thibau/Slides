@@ -70,7 +70,7 @@ editor:
 <div style="margin:0.35em 0; padding:0; line-height:1.15;">
 <span style="font-size:0.55em;"><strong>Paraíso dos Textos Acadêmicos:</strong> <a href="https://annas-archive.org/"><strong>Annas-archive</strong></a> e <strong>Nexus Search</strong></span><br>
 
-<video src="NexusSearch.mp4" width="700" controls></video>
+<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/NexusSearch.mp4" width="700" controls></video>
 
 </div>
 
@@ -125,7 +125,7 @@ editor:
 
 ## Logando no app
 
-<video src="LogandoZotero.mp4" width="700" controls></video>
+<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/LogandoZotero.mp4" width="700" controls></video>
 
 
 ## Cadastrando Artigos e Livros
@@ -137,14 +137,14 @@ editor:
 
 - **Varinha Mágica (DOI ou ISBN)**
 <br>
-<video src="varinhamag.mp4" width="430" controls></video>
+<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/varinhamag.mp4" width="430" controls></video>
 
 
 ## Outros métodos de importação
 
 - Metadados pelo **Zotero Connector**:
 
-<video src="zotero%20connector.mp4" width="687" controls></video>
+<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/zotero%20connector.mp4" width="687" controls></video>
 
 - **Em alguns casos**: simplesmente arrastar um arquivo para o Zotero
 
@@ -180,7 +180,6 @@ editor:
 
 
 
-
 ## Inserindo as Referências
 
 - [**Formatação recomendada**](https://planetazotero.blogspot.com/2020/04/estilo-da-norma-abnt-2018-para-o-zotero.html)
@@ -189,14 +188,14 @@ editor:
 
 - Caso esteja em um Docs colaborativo:
 
-<video src="docscolaborativo.mp4" width="800" controls></video>
+<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/docscolaborativo.mp4" width="800" controls></video>
 
 
 ## Caso precise corrigir o Word:
 
 ::: {style="display: flex; align-items: center;"}
 
-<video src="FixWord.mp4" width="40%" controls></video>
+<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/FixWord.mp4" width="40%" controls></video>
 
 ::: {style="font-size: 0.35em; padding-right: 250px;"}
 [Em resumo:](https://youtu.be/6GTqQU-8jcM?si=_d6J2ZUyILEj5Unl&t=140)
@@ -214,22 +213,21 @@ editor:
   *Exemplo:*  
   `rename {{ authors name="family_given" initialize="_" join="_" suffix="_" }}{{ year suffix="_" }}{{ title truncate="100"}}`
 
-<video src="Renomeando.mp4" width="565" controls></video>
+<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/Renomeando.mp4" width="565" controls></video>
 
 
 ## Integrando com Google Drive
 
-- [Tutorial Antigo](https://www.youtube.com/watch?v=n4fQPoy7GqU&ab_channel=Singularidade)  
-  ![drive](drive.png){width="46"}
+- [Tutorial Antigo](https://www.youtube.com/watch?v=n4fQPoy7GqU&ab_channel=Singularidade)  ![drive](drive.png){width="46"}
 
 - **Configurando Attanger**
 <br>
-<video src="Attanger.mp4" width="650" controls></video>
+<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/Attanger.mp4" width="650" controls></video>
 
 
 ## Transferindo tudo ao Drive
 
-<video src="Transferindo.mp4" width="729" controls></video>
+<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/Transferindo.mp4" width="730" controls></video>
 
 
 ## Muito obrigado pela atenção
