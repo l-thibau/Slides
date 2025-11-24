@@ -68,7 +68,7 @@ editor:
 </div>
 
 <div style="margin:0.35em 0; padding:0; line-height:1.15;">
-<span style="font-size:0.55em;"><strong>Paraíso dos Textos Acadêmicos:</strong> <a href="https://annas-archive.org/">Annas-archive</a> e Nexus Search</span><br>
+<span style="font-size:0.55em;"><strong>Paraíso dos Textos Acadêmicos:</strong> <a href="https://annas-archive.org/"><strong>Annas-archive</strong></a> e <strong>Nexus Search</strong></span><br>
 
 <video src="NexusSearch.mp4" width="700" controls></video>
 
@@ -120,7 +120,7 @@ editor:
 <span style="font-size:0.55em;"><strong>Painel Direito:</strong> Metadados, notas e tags.</span>
 </div>
 
-![](Capturar.PNG){width="100px"}
+![](Capturar.PNG){width="50px"}
 
 
 ## Logando no app
@@ -160,6 +160,25 @@ editor:
 
 <div style="margin:0.05em 0; padding:0; line-height:1.1;"> <span style="font-size:0.5em;">•</span> [<span style="font-size:0.55em;">**Better Notes**</span>](https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file) <span style="font-size:0.55em;">|</span> <span style="font-size:0.55em;"><a href="https://youtu.be/p1d7sR9KssU?si=VoV54XfHbM6U6TIQ" style="color:#005000;"><strong>Clique aqui para o guia</strong></a></span><br> <span style="font-size:0.5em;">Excelente para personalizar e expandir suas anotações dentro do Zotero, permitindo painéis avançados, bundles, templates e organização aprimorada</span> </div> <div style="margin:0.05em 0; padding:0; line-height:1.1;"> <span style="font-size:0.5em;">•</span> [<span style="font-size:0.55em;">**Attanger**</span>](https://github.com/MuiseDestiny/zotero-attanger/releases)<br> <span style="font-size:0.5em;">Essencial para integrar na Cloud e renomear arquivos em massa com formatações sofisticadas</span> </div> <div style="margin:0.05em 0; padding:0; line-height:1.1;"> <span style="font-size:0.5em;">•</span> [<span style="font-size:0.55em;">**PDF Translate**</span>](https://github.com/windingwind/zotero-pdf-translate/releases) <span style="font-size:0.55em;">|</span> <span style="font-size:0.55em;"><a href="https://www.youtube.com/watch?v=AgXUmwLP1vM" style="color:#005000;"><strong>Clique aqui para o guia</strong></a></span><br> <span style="font-size:0.5em;">Permite traduzir PDFs diretamente dentro do Zotero com suporte a vários motores de tradução</span> </div> <div style="margin:0.05em 0; padding:0; line-height:1.1;"> <span style="font-size:0.5em;">•</span> [<span style="font-size:0.55em;">**ShortDOI**</span>](https://github.com/bwiernik/zotero-shortdoi/releases/tag/v1.5.0)<br> <span style="font-size:0.5em;">Gera automaticamente versões curtas de DOIs, facilitando citações e compartilhamento</span> </div> <div style="margin:0.05em 0; padding:0; line-height:1.1;"> <span style="font-size:0.5em;">•</span> [<span style="font-size:0.55em;">**Zotero OCR**</span>](https://github.com/UB-Mannheim/zotero-ocr/releases/tag/0.9.3) <span style="font-size:0.55em;">|</span> <span style="font-size:0.55em;"><a href="https://www.youtube.com/watch?v=swKQXs1vqZo" style="color:#005000;"><strong>Clique aqui para o guia</strong></a></span><br> <span style="font-size:0.5em;">Aplica OCR a PDFs (Transforma Imagens em Texto)… Requer <a href="https://github.com/UB-Mannheim/tesseract/wiki">Tesseract.exe</a> e <a href="https://github.com/oschwartz10612/poppler-windows/releases/">Poppler</a></span> 
 </div>
+<div style="margin:0.05em 0; padding:0; line-height:1.1;">
+  <span style="font-size:0.5em;">•</span>
+  <span style="font-size:0.55em;">
+    <a href="https://github.com/lifan0127/ai-research-assistant" style="color:#0044cc;">
+      <strong>Zotero AI</strong>
+    </a>
+  </span>
+  <span style="font-size:0.55em;">|</span>
+  <span style="font-size:0.55em;">
+    <a href="https://www.youtube.com/watch?v=2-c60WOChlg" style="color:#005000;">
+      <strong>Clique aqui para o guia</strong>
+    </a>
+  </span><br>
+  <span style="font-size:0.5em;">
+    Integra modelos de linguagem ao Zotero, permitindo gerar resumos, extrair conceitos-chave, criar anotações inteligentes e auxiliar na organização bibliográfica diretamente no fluxo de leitura
+  </span>
+</div>
+
+
 
 
 ## Inserindo as Referências
