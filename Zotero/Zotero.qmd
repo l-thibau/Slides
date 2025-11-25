@@ -136,8 +136,11 @@ editor:
 <img src="ZoteroConnect.JPG" alt="Connect" style="width: 400px;"/> </a>
 
 - **Varinha Mágica (DOI ou ISBN)**
-<br>
-<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/varinhamag.mp4" width="430" controls></video>
+
+![](Varinhamag.gif){width=430}
+
+
+
 
 
 ## Outros métodos de importação
