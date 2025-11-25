@@ -76,6 +76,15 @@ editor:
 
 ## Diferença entre Mendeley e Zotero
 
+<!-- Abinha de curiosidade (clicável) -->
+<div class="curiosidade-tab">
+  <span class="curiosidade-button">💡 Curiosidade</span>
+  <div class="curiosidade-box">
+    A Elsevier comprou o Mendeley em 2013 por um valor estimado em cerca de 50 milhões de euros.
+    A aquisição gerou críticas na comunidade acadêmica pelo possível conflito entre o modelo corporativo da Elsevier e o ethos colaborativo original da plataforma.
+  </div>
+</div>
+
 <div style="margin:0.35em 0; padding:0; line-height:1.15;">
 <span style="font-size:0.5em;">•</span>
 <span style="font-size:0.55em;"><strong>Empresarial</strong></span>
@@ -95,7 +104,6 @@ editor:
 </div>
 
 <img src="capitalismo-socialismo.jpg" alt="capitalismo-socialismo" style="width: 739px;"/>
-
 
 ## Mas e o que isso tem de mais?
 
@@ -249,3 +257,32 @@ editor:
   color: #333;
 }
 </style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const buttons = document.querySelectorAll(".curiosidade-button");
+
+  buttons.forEach(function(btn){
+    btn.addEventListener("click", function(e){
+      e.stopPropagation();
+      const box = this.nextElementSibling;
+      const isOpen = box.style.display === "block";
+
+      // Fecha todas as outras caixas
+      document.querySelectorAll(".curiosidade-box").forEach(function(b){
+        b.style.display = "none";
+      });
+
+      // Abre/fecha a clicada
+      box.style.display = isOpen ? "none" : "block";
+    });
+  });
+
+  // Fecha ao clicar fora
+  document.addEventListener("click", function(){
+    document.querySelectorAll(".curiosidade-box").forEach(function(b){
+      b.style.display = "none";
+    });
+  });
+});
+</script>
+
