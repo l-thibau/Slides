@@ -1,38 +1,69 @@
-.reveal { background-color: #ffffff; /* Fundo branco */ color: #333333; /* Texto escuro */ } .reveal section h1 { font-family: 'Arial Black', sans-serif; font-size: 48px; color: #333333; /* Texto escuro */ text-align: center; } .reveal section h2, .reveal section h3, .reveal section h4, .reveal section h5, .reveal section h6 { color: #333333; /* Texto escuro */ } .reveal section p { font-family: 'Arial', sans-serif; color: #333333; /* Texto escuro */ } .reveal section { border-top: 2px solid #dcdcdc; /* Linha clara no topo */ border-bottom: 2px solid #dcdcdc; /* Linha clara no fundo */ } pre.code-block { background-color: #ffffff; /* Fundo azul claro */ padding: 10px; border-radius: 10px; font-family: 'Times', monospace; font-size: 16px; width: 80%; margin: left; } .left-gif { width: 350px; /* Aumentar o tamanho conforme necessário */ height: auto; position: absolute; bottom: 10px; /* Ajuste a posição vertical conforme necessário */ left: 50px; /* Ajuste a posição horizontal conforme necessário */ } @media (prefers-color-scheme: dark) { .reveal { background-color: #ffffff; /* Fundo no modo escuro */ color: #1f0303; /* Texto no modo escuro */ } .reveal section h1, .reveal section h2, .reveal section h3, .reveal section h4, .reveal section h5, .reveal section h6 { color: #200404; /* Texto no modo escuro */ } .reveal section { border-top: 2px solid #555555; /* Linha clara no modo escuro */ border-bottom: 2px solid #555555; /* Linha clara no modo escuro */ } .reveal pre code { color: #ffffff; background: #4fa4d4; border: 1px solid #444444; } }
+.reveal { background-color: #ffffff; color: #333333; }
+.reveal section h1 {
+  font-family: 'Arial Black', sans-serif;
+  font-size: 48px;
+  color: #333333;
+  text-align: center;
+}
+.reveal section h2, .reveal section h3, .reveal section h4, .reveal section h5, .reveal section h6 { color: #333333; }
+.reveal section p { font-family: 'Arial', sans-serif; color: #333333; }
+.reveal section { border-top: 2px solid #dcdcdc; border-bottom: 2px solid #dcdcdc; }
+
+pre.code-block {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Times', monospace;
+  font-size: 16px;
+  width: 80%;
+  margin: left;
+}
+
+.left-gif {
+  width: 350px;
+  height: auto;
+  position: absolute;
+  bottom: 10px;
+  left: 50px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .reveal { background-color: #ffffff; color: #1f0303; }
+  .reveal section h1, .reveal section h2, .reveal section h3, .reveal section h4, .reveal section h5, .reveal section h6 { color: #200404; }
+  .reveal section { border-top: 2px solid #555555; border-bottom: 2px solid #555555; }
+  .reveal pre code { color: #ffffff; background: #4fa4d4; border: 1px solid #444444; }
+}
 
 /* ========================= */
 /* AJUSTES DE ESPAÇAMENTO    */
 /* ========================= */
 
-/* diminuir espaço entre parágrafos */
 .reveal section p {
   margin-top: 0.2em !important;
   margin-bottom: 0.2em !important;
 }
 
-/* diminuir espaço entre itens de lista */
 .reveal section li {
   margin-top: 0.15em !important;
   margin-bottom: 0.15em !important;
 }
 
-/* reduzir intervalo entre linhas */
 .reveal section p,
 .reveal section li {
   line-height: 1.10 !important;
 }
 
-/* diminuir tamanho dos títulos h2 (inclui "Extensões Recomendadas") */
 .reveal section h2 {
-  font-size: 46px !important;   /* ajuste fino: pode reduzir mais se quiser */
+  font-size: 46px !important;
   line-height: 1.1 !important;
   margin-bottom: 0.2em !important;
   margin-top: 0.3em !important;
 }
 
-/* caso queira títulos ainda menores, posso ajustar h3, h4 etc. */
+/* ========================= */
+/* CURIOSIDADE – AJUSTADO    */
+/* ========================= */
 
-<style>
 .curiosidade-tab {
   position: absolute;
   top: 20px;
@@ -41,13 +72,19 @@
 }
 
 .curiosidade-button {
-  background: #ffcc00;
-  color: #000;
+  background: rgba(255, 204, 0, 0.45);  /* translúcido */
+  color: #222;
   padding: 6px 10px;
   font-size: 0.6em;
   border-radius: 6px;
   cursor: pointer;
-  box-shadow: 0 0 4px rgba(0,0,0,0.25);
+  backdrop-filter: blur(2px);           /* opcional, deixa suave */
+  box-shadow: 0 0 3px rgba(0,0,0,0.15);
+  transition: background 0.2s;
+}
+
+.curiosidade-button:hover {
+  background: rgba(255, 204, 0, 0.65); /* destaque leve */
 }
 
 .curiosidade-box {
@@ -63,6 +100,3 @@
   border-radius: 6px;
   box-shadow: 0 0 6px rgba(0,0,0,0.25);
 }
-</style>
-
-
