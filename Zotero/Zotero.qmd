@@ -253,6 +253,18 @@ editor:
 
 <video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/Transferindo.mp4" width="730" controls></video>
 
+## E em Tablet?  Consigo usar?!
+<br>
+Sim! Porém, **não tenho experiência de uso**.
+
+<div style="display: flex; align-items: center; justify-content: left;">
+  <img src="coelho.gif" width="250">
+</div>
+
+Discussões que esclarecem bem sobre como proceder com a leitura de textos do Zotero em Android e IOS:
+<br><br>
+[1](https://www.reddit.com/r/zotero/comments/1bc620f/tablet_for_zotero/) e [2](https://www.reddit.com/r/zotero/comments/jq9al0/sync_between_zotero_and_android_tablet/?tl=pt-br)
+
 
 ## Muito obrigado pela atenção
 
