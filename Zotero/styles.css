@@ -60,38 +60,49 @@ pre.code-block {
   margin-top: 0.3em !important;
 }
 
-/* ========================= */
-/* CURIOSIDADE – AJUSTADO    */
-/* ========================= */
+/* ======================== */
+/*   BOTÕES DE CURIOSIDADE  */
+/* ======================== */
 
 .curiosidade-tab {
   position: absolute;
   top: 20px;
-  right: 20px;
+  right: 130px;
   z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
 }
 
 .curiosidade-button {
-  background: rgba(255, 204, 0, 0.45);  /* translúcido */
+  display: block;
+  width: 150px;
+  background: rgba(255, 204, 0, 0.45);
   color: #222;
   padding: 6px 10px;
   font-size: 0.6em;
   border-radius: 6px;
   cursor: pointer;
-  backdrop-filter: blur(2px);           /* opcional, deixa suave */
+  z-index: 10000;
+  backdrop-filter: blur(2px);
   box-shadow: 0 0 3px rgba(0,0,0,0.15);
-  transition: background 0.2s;
+  user-select: none;
+
+  /* animação suave */
+  transition: transform 0.25s ease;
+}
+
+/* BOTÃO ATIVADO → move para direita */
+.curiosidade-button.active {
+  transform: translateX(115px);  /* ajuste fino conforme desejar */
 }
 
 .curiosidade-button:hover {
-  background: rgba(255, 204, 0, 0.65); /* destaque leve */
+  background: rgba(255, 204, 0, 0.65);
 }
 
 .curiosidade-box {
   display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 8px;
   width: 260px;
   background: #ffffff;
   border: 1px solid #ccc;
@@ -100,3 +111,4 @@ pre.code-block {
   border-radius: 6px;
   box-shadow: 0 0 6px rgba(0,0,0,0.25);
 }
+

@@ -76,13 +76,26 @@ editor:
 
 ## Diferença entre Mendeley e Zotero
 
-<!-- Abinha de curiosidade (clicável) -->
 <div class="curiosidade-tab">
+
   <span class="curiosidade-button">💡 Curiosidade</span>
   <div class="curiosidade-box">
-    A Elsevier comprou o Mendeley em 2013 por um valor estimado em cerca de 50 milhões de euros.
-    A aquisição gerou críticas na comunidade acadêmica pelo possível conflito entre o modelo corporativo da Elsevier e o ethos colaborativo original da plataforma.
+    A Elsevier comprou o Mendeley em 2013 por cerca de 50 milhões de euros.
+    A aquisição gerou críticas na comunidade acadêmica pelo possível conflito entre o modelo corporativo da Elsevier e o ethos colaborativo original.
   </div>
+
+  <span class="curiosidade-button">Software Livre</span>
+  <div class="curiosidade-box">
+    Concede liberdade para executar, acessar e modificar o código-fonte e redistribuir cópias com ou sem alterações.
+    Pode ser usado, estudado, modificado e compartilhado sem restrições.
+  </div>
+
+  <span class="curiosidade-button">Dependência</span>
+  <div class="curiosidade-box">
+    Em 2018, uma atualização do Mendeley provocou perda de PDFs e anotações para alguns usuários.
+    A Elsevier corrigiu o problema após algumas semanas.
+  </div>
+
 </div>
 
 <div style="margin:0.35em 0; padding:0; line-height:1.15;">
@@ -259,30 +272,39 @@ editor:
 </style>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+
+  // Pega todos os botões
   const buttons = document.querySelectorAll(".curiosidade-button");
 
-  buttons.forEach(function(btn){
-    btn.addEventListener("click", function(e){
-      e.stopPropagation();
+  buttons.forEach(button => {
+    button.addEventListener("click", function (event) {
+      event.stopPropagation();
+
       const box = this.nextElementSibling;
       const isOpen = box.style.display === "block";
 
-      // Fecha todas as outras caixas
-      document.querySelectorAll(".curiosidade-box").forEach(function(b){
-        b.style.display = "none";
-      });
+      // Fecha todas as caixas
+      document.querySelectorAll(".curiosidade-box").forEach(b => b.style.display = "none");
 
-      // Abre/fecha a clicada
-      box.style.display = isOpen ? "none" : "block";
+      // Remove active de todos os botões
+      document.querySelectorAll(".curiosidade-button").forEach(btn => btn.classList.remove("active"));
+
+      // Abre a caixa clicada e ativa o botão
+      if (!isOpen) {
+        box.style.display = "block";
+        this.classList.add("active");
+      }
     });
   });
 
-  // Fecha ao clicar fora
-  document.addEventListener("click", function(){
-    document.querySelectorAll(".curiosidade-box").forEach(function(b){
-      b.style.display = "none";
-    });
+  // Clicou fora → fecha tudo e reseta botões
+  document.addEventListener("click", () => {
+    document.querySelectorAll(".curiosidade-box").forEach(b => b.style.display = "none");
+    document.querySelectorAll(".curiosidade-button").forEach(btn => btn.classList.remove("active"));
   });
+
 });
 </script>
+
+
 
