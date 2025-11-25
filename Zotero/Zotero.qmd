@@ -202,17 +202,10 @@ editor:
   </span>
 </div>
 
+## Instalando no Word e LibreOffice
 
 
-## Inserindo as Referências
-
-- [**Formatação recomendada**](https://planetazotero.blogspot.com/2020/04/estilo-da-norma-abnt-2018-para-o-zotero.html)
-
-- [**Docs**](https://www.youtube.com/watch?v=YA-Lq0VpvQA)
-
-- Caso esteja em um Docs colaborativo:
-
-<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/docscolaborativo.mp4" width="800" controls></video>
+![](wordelibre.gif){width=430}
 
 
 ## Caso precise corrigir o Word:
@@ -230,6 +223,16 @@ editor:
 > Colar em: `%appdata%\microsoft\word\startup`
 :::
 :::
+
+## Inserindo as Referências
+
+- [**Formatação recomendada**](https://planetazotero.blogspot.com/2020/04/estilo-da-norma-abnt-2018-para-o-zotero.html)
+
+- [**Docs**](https://www.youtube.com/watch?v=YA-Lq0VpvQA)
+
+- Caso esteja em um Docs colaborativo:
+
+<video src="https://raw.githubusercontent.com/l-thibau/Slides/thibau/Zotero/docscolaborativo.mp4" width="800" controls></video>
 
 ## Renomeando todos os arquivos
 
